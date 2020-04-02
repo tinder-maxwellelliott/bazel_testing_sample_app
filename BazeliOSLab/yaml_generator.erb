@@ -1,0 +1,10 @@
+    <%= uuid %>Module:
+        type: framework
+        platform: iOS
+        sources: [Modules/<%= uuid %>Module/Sources]
+    <%= uuid %>ModuleTests:
+        type: bundle.unit-test
+        platform: iOS
+        sources: [Modules/<%= uuid %>Module/Tests]
+    dependencies:
+        - target: <%= uuid %>Module

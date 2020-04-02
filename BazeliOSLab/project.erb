@@ -1,0 +1,33 @@
+name: BazeliOSLab
+options:
+  bundleIdPrefix: com.bazelioslab
+targets:
+  MyApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "13.0"
+    sources: [BazeliOSLab]
+    dependencies:<% uuids.each do |uuid| %>
+        - target: <%= uuid %>Module <% end %>
+    scheme:
+      testTargets:
+        - MyAppTests<% uuids.each do |uuid| %>
+        - <%= uuid %>ModuleTests<% end %>
+  MyAppTests:
+    type: bundle.unit-test
+    platform: iOS
+    dependencies:
+      - target: MyApp
+    sources: [BazeliOSLabTests]<% uuids.each do |uuid| %>
+  <%= uuid %>Module:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/<%= uuid %>Module/Sources/Info.plist
+    sources: [Modules/<%= uuid %>Module/Sources]
+  <%= uuid %>ModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/<%= uuid %>Module/Tests/Info.plist
+    sources: [Modules/<%= uuid %>Module/Tests]<% end %>

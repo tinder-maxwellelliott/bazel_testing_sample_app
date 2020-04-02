@@ -1,0 +1,10 @@
+import XCTest
+import Foundation
+@testable import <%= uuid %>Module
+
+class <%= uuid %>ModuleTests: XCTestCase {
+    func testExample() {
+        let obj =  <%= uuid %>Class()
+        XCTAssertEqual(obj.getUUID(), "<%= uuid %>")
+    }
+}
