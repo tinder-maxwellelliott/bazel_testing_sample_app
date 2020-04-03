@@ -2,9 +2,11 @@ COMMIT_RANGE=${COMMIT_RANGE:-$(git merge-base master HEAD)".."}
 
 # Get a list of the current files in package form by querying Bazel.
 files=()
-for file in $(git diff --name-only ${COMMIT_RANGE} ); do
-  files+=($(bazel query $file))
-  echo $(bazel query $file)
+for file in $(git diff --name-only ${COMMIT_RANGE} ) ; do
+  prefix="BazeliOSLab/"
+  filename=${file/#$prefix}
+  files+=($(bazel query $filename))
+  echo $(bazel query $filename)
 done
 
 tests=$(bazel query \
