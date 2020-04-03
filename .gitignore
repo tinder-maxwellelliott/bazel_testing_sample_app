@@ -10,3 +10,4 @@ target/
 *.tulsiconf-user
 *.xcodeproj
 .DS_Store
+BazeliOSLab/Modules/**
