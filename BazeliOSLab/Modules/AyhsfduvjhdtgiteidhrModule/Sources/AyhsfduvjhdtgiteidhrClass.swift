@@ -2,6 +2,6 @@ import Foundation
 
 class AyhsfduvjhdtgiteidhrClass {
     public func getUUID() -> String {
-        return "Ayhsfduvjhdtgiteidhr"
+        return "maxwell"
     }
 }
