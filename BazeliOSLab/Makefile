@@ -1,7 +1,6 @@
 NUMBER_OF_MODULES ?= 100
 
 make:
-	brew install bazel
 	rm -rf BazeliOSLab.xcodeproj && ./generate_modules.rb && xcodegen generate
 
 xcode_build:
