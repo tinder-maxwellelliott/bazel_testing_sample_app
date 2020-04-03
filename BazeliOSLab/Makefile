@@ -14,5 +14,5 @@ bazel_build:
 bazel_test:
 	bazel test //... --apple_platform_type=ios --ios_minimum_os=13.0 --ios_simulator_device="iPhone 8" --ios_simulator_version=13.3
 
-bazel_test:
-	bazel test //... --apple_platform_type=ios --ios_minimum_os=13.0 --ios_simulator_device="iPhone 8" --ios_simulator_version=13.3
+bazel_smart_test:
+	./bazel_smart_ci.sh
