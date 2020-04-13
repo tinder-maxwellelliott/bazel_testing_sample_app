@@ -1,7 +1,7 @@
 NUMBER_OF_MODULES ?= 100
 
 make:
-	rm -rf BazeliOSLab.xcodeproj && ./generate_modules.rb && xcodegen generate
+	rm -rf BazeliOSLab.xcodeproj && mkdir -p BazeliOSLab/Modules && ./generate_modules.rb && xcodegen generate
 
 xcode_build:
 	time -p xcodebuild -project BazeliOSLab.xcodeproj -scheme MyApp -destination 'platform=iOS Simulator,name=iPhone 8' build -sdk iphonesimulator 2>&1 CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO CODE_SIGN_ENTITLEMENTS="" -UseModernBuildSystem=NO
