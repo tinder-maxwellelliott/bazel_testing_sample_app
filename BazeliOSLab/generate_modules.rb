@@ -3,6 +3,7 @@ require 'erb'
 require 'securerandom'
 
 `rm -rf Modules/*`
+`mkdir -p Modules`
 
 if File.exists?("yaml_output.yml")
     `rm yaml_output.yml`
