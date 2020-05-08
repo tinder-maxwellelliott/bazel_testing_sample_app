@@ -15,7 +15,7 @@ swift_library(
     module_name = name + "Lib",
     srcs = glob(["**/*.swift"]),
     deps = [
-        "//Modules/PskowlljjeppgodszuiuModule:PskowlljjeppgodszuiuModule","//Modules/PjxjwcfrgowjerzlwwldModule:PjxjwcfrgowjerzlwwldModule","//Modules/BdgnfcbiaazdzzakaukcModule:BdgnfcbiaazdzzakaukcModule","//Modules/YohtiglxnbinwupeinbmModule:YohtiglxnbinwupeinbmModule","//Modules/AsupkyvabsbnmfetfwnhModule:AsupkyvabsbnmfetfwnhModule","//Modules/SusulqmuzzpuidewrwfoModule:SusulqmuzzpuidewrwfoModule","//Modules/UsykbrimlzkubfvpwtttModule:UsykbrimlzkubfvpwtttModule","//Modules/KoreexswxalzlelyykziModule:KoreexswxalzlelyykziModule","//Modules/AgmamxnxrmvpxqrdvoygModule:AgmamxnxrmvpxqrdvoygModule","//Modules/HsdexpmpbuytzlivayzrModule:HsdexpmpbuytzlivayzrModule","//Modules/IanaakpcfuvqubwamhcwModule:IanaakpcfuvqubwamhcwModule"
+        "//Modules/YgfwnzhkjdqjkhpijrvyModule:YgfwnzhkjdqjkhpijrvyModule"
     ]
 )
 
