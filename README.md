@@ -3,7 +3,7 @@ This sample app can be used to evaluate Bazel's test performance over a large iO
 
 ### Installation
 
-    $ brew install bazel
+    $ brew install bazel gnu-time
     $ cd BazeliOSLab && make NUMBER_OF_MODULES=SOME_NUMBER
 
 ### Running the tests
