@@ -36,6 +36,6 @@ end
 project_template = ERB.new(File.read("project.erb"))
 File.write("project.yml", project_template.result(binding))
 
-module_deps = module_names.map{|m| "\"//Modules/#{m}:#{m}\""}.join(",")
+module_deps = module_names.map{|m| "\"//BazeliOSLab/Modules/#{m}:#{m}\""}.join(",")
 lab_build_template = ERB.new(File.read("lab_build.erb"))
 File.write("BazeliOSLab/BUILD", lab_build_template.result(binding))
