@@ -8,96 +8,2826 @@ targets:
     deploymentTarget: "13.0"
     sources: [BazeliOSLab]
     dependencies:
-        - target: JxsjzzfuwipukbmdhcqyModule 
-        - target: QuhbyghzaycwowspihgsModule 
-        - target: MlicwkzhcuswcevotnvoModule 
-        - target: OlechosbuexcaujsvrefModule 
-        - target: NfxvvhgnxbyyhzghtwscModule 
-        - target: XkidjvyydgusqgbcqtsvModule 
+        - target: ZxjjpqdmwenwimonfvbuModule 
+        - target: XompbtrrhkzsvkjzhclrModule 
+        - target: LowcgtebwdrshmtahpmuModule 
+        - target: VktqzrudtowhwneqiudqModule 
+        - target: WgqfeuyawddxgknwjexkModule 
+        - target: EibmwzjehyydxkcinvxwModule 
+        - target: JkrgcqmwetptyhoqdlwpModule 
+        - target: MiyjkynywxddzfzjbarmModule 
+        - target: AynwebxveiiitdubmljcModule 
+        - target: GjslaycjgqduviiydpcsModule 
+        - target: LekevuabbrlznjcakzksModule 
+        - target: FlzbrptfxdspzwtitwdwModule 
+        - target: FfmmvlwmpslylgpnumwxModule 
+        - target: RzrmlikyjndqwmikkskeModule 
+        - target: YkjbnicseldqfuoxjuioModule 
+        - target: TbwkdkpelrjwkpchzmswModule 
+        - target: WbjojktpjdjdmxukgydgModule 
+        - target: NhiksrnvpdrpgipiezhxModule 
+        - target: OwjmtfyhkkzbsgggaaeiModule 
+        - target: UqdprtakjrlvzeaxzjybModule 
+        - target: YsrkwxlbvnnxaekorcpsModule 
+        - target: OgmhoxqjesctbgallgwpModule 
+        - target: XqghkdbhdwhdcynwiwfaModule 
+        - target: GcbewwpescbsccyxbowjModule 
+        - target: JhinkpkfmziihscmwjzxModule 
+        - target: ZrxrwjqolxpypwcklprwModule 
+        - target: DxixqbgfrvrvxnivbozrModule 
+        - target: CegkbxgrdtpqreozpddpModule 
+        - target: GtsolifdwnaufkalegipModule 
+        - target: QenppubyumpmeifffzgyModule 
+        - target: ImkmyqasktdjoizvwetqModule 
+        - target: LlasimpmqksixvyumcbfModule 
+        - target: ZyjtjrreupmhiaytntudModule 
+        - target: AefpzevnnlmqwkxbsemoModule 
+        - target: YoezkihutzeidxcsxipeModule 
+        - target: GcqriwwhcyhoafryekwhModule 
+        - target: OxsiqahqndpbngtuuityModule 
+        - target: MfcsywhuwlxwsupdmavsModule 
+        - target: KekiswznmfhvodkjydkcModule 
+        - target: JaxqpidjafdjwduwokluModule 
+        - target: OvheibrmjrldkslowptlModule 
+        - target: TgrftsafeinaepvpgeplModule 
+        - target: UzwrhmhadbftvvrghjatModule 
+        - target: UcwqggrbupmlclmprbiwModule 
+        - target: XauhwjzjsswpxhidqkshModule 
+        - target: RnpaorrindkzhalwypxcModule 
+        - target: ZmkfkoulbvotwqzhdjpbModule 
+        - target: BieheqfvwcnqioiyohycModule 
+        - target: RhslifwcikahosfnolqqModule 
+        - target: JjqtmnvlmywwunetsmvpModule 
+        - target: ZfhyzzqyriotlmioawovModule 
+        - target: AyowopvseidoxbscbnuaModule 
+        - target: ZfwigrwtbhfmfapxrdqiModule 
+        - target: NnkhnwvuunqhbjqgefnnModule 
+        - target: VnzdkxsqszwyqgqtdzxeModule 
+        - target: GyscgoxyrhwyupkvxsfkModule 
+        - target: HmonofgpalpiinmuysjwModule 
+        - target: FezjpfjaniigdsiocgkpModule 
+        - target: AyyfuwyxgdecwvlvicxvModule 
+        - target: XnkvdtemebxgitsjdqugModule 
+        - target: CtdytykvregszzqcanbfModule 
+        - target: HtedpbanrauhftjftxrkModule 
+        - target: UkzummrpyosemqtfxehrModule 
+        - target: ZpuzxyolrxeqrwcgvvlmModule 
+        - target: HvgtynemlaumovnqaucoModule 
+        - target: AkxnwnlcwwoyunnyepeyModule 
+        - target: LspoeafjkjfhysmygrunModule 
+        - target: GjurrfmcqaewgoqaunihModule 
+        - target: FdybmqezriruvtedioapModule 
+        - target: LvwfybugorhkannqdlflModule 
+        - target: PcydposbdqeawmnkwveaModule 
+        - target: FcdiubafkgajyfwxkzntModule 
+        - target: WvhelivgmnddqnaypisnModule 
+        - target: PywemovpwohcnkxdxchnModule 
+        - target: VvwyyiwugmkfqrnlhwqtModule 
+        - target: JealkwijubewvdlwspkzModule 
+        - target: SvsvznotzhbmxiqqvbvmModule 
+        - target: VpubnpsafzqpepwcrhrxModule 
+        - target: OqgqzvkaqviihzbrjpedModule 
+        - target: FwtmtwymevhkvzynyqujModule 
+        - target: VsldcsgfeyppezqphxkvModule 
+        - target: TairzuppzbgvadmwpopyModule 
+        - target: EtuyqblqgkdjriosrkfnModule 
+        - target: RbggckcrrgseeoheyoqbModule 
+        - target: ArwhactahjniirbdlwdnModule 
+        - target: LbhrmatfedoaqxaqaskjModule 
+        - target: AniyabxodkwngqtpempxModule 
+        - target: ZzraebknxulgakrwazxrModule 
+        - target: WkhlchcoyksiatksifbzModule 
+        - target: TnnupobjecvywqaqqsiiModule 
+        - target: UjfnlyapcpfifkwztmihModule 
+        - target: WmiqgogjflocggnulhshModule 
+        - target: LcezmzkvogoxfkysiqzbModule 
+        - target: DzsforucxvcqvoimnhieModule 
+        - target: GoqcabntnuzualhpiglqModule 
+        - target: AzqcbtrpjwlyhcnzusinModule 
+        - target: DlnqrnvjkzxlhbhurbkzModule 
+        - target: KrlunjofmujtpvzrexbaModule 
+        - target: DezsmgpmirchekekvtoqModule 
+        - target: WweiwwzqgfnzoyiuesraModule 
+        - target: BpafyazbftecfwxtlfvnModule 
+        - target: HlpzxwevbcccaocanhgnModule 
+        - target: YhsegajgxgqpnujzkswwModule 
+        - target: TifrvcsioqteybmwacycModule 
+        - target: RbvzbnmnlbwizephknpaModule 
+        - target: IjxecgymqolafrjuystxModule 
+        - target: JhfrijgnrisantioksnuModule 
+        - target: QfylrckhaajyoacynewnModule 
+        - target: QmxqijfwzwtelpnguflkModule 
+        - target: MmmkmciurmjcgvnqitucModule 
+        - target: IptgsfvlwfpzdwwkvypyModule 
+        - target: VdehywrspfmpszdcsdyeModule 
+        - target: XbnciyjbfsieppeseoboModule 
+        - target: ZzlczczkgthohnszcipqModule 
+        - target: UghsrjjythlskbuxjbftModule 
+        - target: UfvugrcscnrdmzinhhvqModule 
+        - target: IbbllvibnydjtmzwybmhModule 
+        - target: SyleizvqisrihyasojspModule 
+        - target: HdytdtrlxseqjcpcebkbModule 
+        - target: LlulehdvywvoxnciwwbkModule 
+        - target: MuuynobtqxdghfrlbqhnModule 
+        - target: PdcizkvliqldgruusjrdModule 
+        - target: MaqefmtxuiyewrrfycxkModule 
+        - target: MebbpnzrtzizijyidyujModule 
+        - target: AyftlhqappgdkopnxtxkModule 
+        - target: QrolxlbvirgykqdlwddpModule 
+        - target: CehharxrdetpbkbakofkModule 
+        - target: FesqayxonbksudigykinModule 
+        - target: ZovquijbxiiuuhamubuaModule 
+        - target: ZailublqxsaorzemibxrModule 
+        - target: YzyollxrbnbepzxsqtvcModule 
+        - target: TiuniqrdsuilfjebpkreModule 
+        - target: PutshxxkapjbeinbmtdcModule 
+        - target: BqyyxjespctecplkjgqyModule 
+        - target: BjzinfxvacpbvoductgkModule 
+        - target: RyxzdpghdkuschihdlmeModule 
+        - target: UjnuvjekauslkuauconjModule 
+        - target: JmjhmkouuxubrnyphwhlModule 
+        - target: HotxnhpmnnllbojmebvxModule 
+        - target: KoraydupicprbcjimxeyModule 
+        - target: GkosewuranoejuvsevjvModule 
+        - target: RsledpvpftjthywyblpgModule 
+        - target: VgfebpsplcgugagiwgjwModule 
+        - target: XmjjrxosrcgyvfyirqvgModule 
+        - target: CnymacwsxrvomulnpgrtModule 
+        - target: TcnnavitisnbycmgdsczModule 
+        - target: EltotqxsdjpzhsldtjheModule 
+        - target: ZjbouooexurcbycogzrcModule 
+        - target: EvsgryycozqjogucdcepModule 
+        - target: GylwmjfckrudneheiaveModule 
+        - target: DxqtrvqemcjpvmeibaizModule 
+        - target: VzkzjqfsnowifbgqdstdModule 
+        - target: BrxiffkgerhksesavaifModule 
+        - target: CgwlgdhlryblmqsoipmbModule 
+        - target: VdszgknmkwodljyzqmzaModule 
+        - target: GdkcbyedqmwwpnrbelveModule 
+        - target: TtlypbclpgeqzbdfzfklModule 
+        - target: TvldngvysfafrfruvfnbModule 
+        - target: TqhjxyjaqpqdvfjccypqModule 
+        - target: FqwjjyldlwjghjsqqzwgModule 
+        - target: FijvvqljeqpxmlvjhoybModule 
+        - target: VojtbyahunoduuyixprqModule 
+        - target: LjrprnmxyphzszcgvzwwModule 
+        - target: VjqehviyaqegmkybetdlModule 
+        - target: GbshmkhbtmfmblgwiuqeModule 
+        - target: FqfzjextppmjecqogjgiModule 
+        - target: YldwjwlllewkrikgbzalModule 
+        - target: DgwcgpopwxbyermawarsModule 
+        - target: FmwcxzenucnysdlrqgheModule 
+        - target: GyhhjwqskuitddsbelloModule 
+        - target: WebkzingpsjpdznpwuymModule 
+        - target: OlmieravqymizmebsceuModule 
+        - target: KcegmwgisdbirffogmysModule 
+        - target: ZihynprprxvhxrjwiweuModule 
+        - target: MiphuorpzvtblaepqbctModule 
+        - target: LbxnqoymsiqjrcehxtxhModule 
+        - target: VcbcnbriroyonhnxmzbiModule 
+        - target: OggnnkdowaxblrkobccbModule 
+        - target: ZinzqsmrjbocpmyouscaModule 
+        - target: HzgvzrnjxamwwgoddxagModule 
+        - target: RzktwwcapfkhdeudieqsModule 
+        - target: CyynidckmbvxsyuiiybbModule 
+        - target: FgywbwecfknsnojvvlsaModule 
+        - target: NnpltubfgycqkgvdiwdnModule 
+        - target: SrjltgelwhitiwqindjlModule 
+        - target: KksayalrctjzcoeyketgModule 
+        - target: KdzqxejfpcvpdlygwodhModule 
+        - target: EddbfirotbbmjshgkezpModule 
+        - target: WrpwuvgxbmcepfdibkunModule 
+        - target: QmcuyeepfdgjdwdvmswnModule 
+        - target: YczyufovzaghqadiagnrModule 
+        - target: UlutzpcqdzsxoajsxqmuModule 
+        - target: ZfzpwlqmjsatasevtiegModule 
+        - target: TuhipjbimzvdnuafourgModule 
+        - target: VltxkbayrffecscjpmiyModule 
+        - target: BszqwxlvzedrruytkixrModule 
+        - target: YpuilcgwxeuuzbyyxameModule 
+        - target: ItspxilosjzefecznygmModule 
+        - target: OcxkabrwiqvvvdtbxiloModule 
+        - target: LfyzsmjdnvaippottcgzModule 
+        - target: IiforqnpweollhrdmeeaModule 
     scheme:
       testTargets:
         - MyAppTests
-        - JxsjzzfuwipukbmdhcqyModuleTests
-        - QuhbyghzaycwowspihgsModuleTests
-        - MlicwkzhcuswcevotnvoModuleTests
-        - OlechosbuexcaujsvrefModuleTests
-        - NfxvvhgnxbyyhzghtwscModuleTests
-        - XkidjvyydgusqgbcqtsvModuleTests
+        - ZxjjpqdmwenwimonfvbuModuleTests
+        - XompbtrrhkzsvkjzhclrModuleTests
+        - LowcgtebwdrshmtahpmuModuleTests
+        - VktqzrudtowhwneqiudqModuleTests
+        - WgqfeuyawddxgknwjexkModuleTests
+        - EibmwzjehyydxkcinvxwModuleTests
+        - JkrgcqmwetptyhoqdlwpModuleTests
+        - MiyjkynywxddzfzjbarmModuleTests
+        - AynwebxveiiitdubmljcModuleTests
+        - GjslaycjgqduviiydpcsModuleTests
+        - LekevuabbrlznjcakzksModuleTests
+        - FlzbrptfxdspzwtitwdwModuleTests
+        - FfmmvlwmpslylgpnumwxModuleTests
+        - RzrmlikyjndqwmikkskeModuleTests
+        - YkjbnicseldqfuoxjuioModuleTests
+        - TbwkdkpelrjwkpchzmswModuleTests
+        - WbjojktpjdjdmxukgydgModuleTests
+        - NhiksrnvpdrpgipiezhxModuleTests
+        - OwjmtfyhkkzbsgggaaeiModuleTests
+        - UqdprtakjrlvzeaxzjybModuleTests
+        - YsrkwxlbvnnxaekorcpsModuleTests
+        - OgmhoxqjesctbgallgwpModuleTests
+        - XqghkdbhdwhdcynwiwfaModuleTests
+        - GcbewwpescbsccyxbowjModuleTests
+        - JhinkpkfmziihscmwjzxModuleTests
+        - ZrxrwjqolxpypwcklprwModuleTests
+        - DxixqbgfrvrvxnivbozrModuleTests
+        - CegkbxgrdtpqreozpddpModuleTests
+        - GtsolifdwnaufkalegipModuleTests
+        - QenppubyumpmeifffzgyModuleTests
+        - ImkmyqasktdjoizvwetqModuleTests
+        - LlasimpmqksixvyumcbfModuleTests
+        - ZyjtjrreupmhiaytntudModuleTests
+        - AefpzevnnlmqwkxbsemoModuleTests
+        - YoezkihutzeidxcsxipeModuleTests
+        - GcqriwwhcyhoafryekwhModuleTests
+        - OxsiqahqndpbngtuuityModuleTests
+        - MfcsywhuwlxwsupdmavsModuleTests
+        - KekiswznmfhvodkjydkcModuleTests
+        - JaxqpidjafdjwduwokluModuleTests
+        - OvheibrmjrldkslowptlModuleTests
+        - TgrftsafeinaepvpgeplModuleTests
+        - UzwrhmhadbftvvrghjatModuleTests
+        - UcwqggrbupmlclmprbiwModuleTests
+        - XauhwjzjsswpxhidqkshModuleTests
+        - RnpaorrindkzhalwypxcModuleTests
+        - ZmkfkoulbvotwqzhdjpbModuleTests
+        - BieheqfvwcnqioiyohycModuleTests
+        - RhslifwcikahosfnolqqModuleTests
+        - JjqtmnvlmywwunetsmvpModuleTests
+        - ZfhyzzqyriotlmioawovModuleTests
+        - AyowopvseidoxbscbnuaModuleTests
+        - ZfwigrwtbhfmfapxrdqiModuleTests
+        - NnkhnwvuunqhbjqgefnnModuleTests
+        - VnzdkxsqszwyqgqtdzxeModuleTests
+        - GyscgoxyrhwyupkvxsfkModuleTests
+        - HmonofgpalpiinmuysjwModuleTests
+        - FezjpfjaniigdsiocgkpModuleTests
+        - AyyfuwyxgdecwvlvicxvModuleTests
+        - XnkvdtemebxgitsjdqugModuleTests
+        - CtdytykvregszzqcanbfModuleTests
+        - HtedpbanrauhftjftxrkModuleTests
+        - UkzummrpyosemqtfxehrModuleTests
+        - ZpuzxyolrxeqrwcgvvlmModuleTests
+        - HvgtynemlaumovnqaucoModuleTests
+        - AkxnwnlcwwoyunnyepeyModuleTests
+        - LspoeafjkjfhysmygrunModuleTests
+        - GjurrfmcqaewgoqaunihModuleTests
+        - FdybmqezriruvtedioapModuleTests
+        - LvwfybugorhkannqdlflModuleTests
+        - PcydposbdqeawmnkwveaModuleTests
+        - FcdiubafkgajyfwxkzntModuleTests
+        - WvhelivgmnddqnaypisnModuleTests
+        - PywemovpwohcnkxdxchnModuleTests
+        - VvwyyiwugmkfqrnlhwqtModuleTests
+        - JealkwijubewvdlwspkzModuleTests
+        - SvsvznotzhbmxiqqvbvmModuleTests
+        - VpubnpsafzqpepwcrhrxModuleTests
+        - OqgqzvkaqviihzbrjpedModuleTests
+        - FwtmtwymevhkvzynyqujModuleTests
+        - VsldcsgfeyppezqphxkvModuleTests
+        - TairzuppzbgvadmwpopyModuleTests
+        - EtuyqblqgkdjriosrkfnModuleTests
+        - RbggckcrrgseeoheyoqbModuleTests
+        - ArwhactahjniirbdlwdnModuleTests
+        - LbhrmatfedoaqxaqaskjModuleTests
+        - AniyabxodkwngqtpempxModuleTests
+        - ZzraebknxulgakrwazxrModuleTests
+        - WkhlchcoyksiatksifbzModuleTests
+        - TnnupobjecvywqaqqsiiModuleTests
+        - UjfnlyapcpfifkwztmihModuleTests
+        - WmiqgogjflocggnulhshModuleTests
+        - LcezmzkvogoxfkysiqzbModuleTests
+        - DzsforucxvcqvoimnhieModuleTests
+        - GoqcabntnuzualhpiglqModuleTests
+        - AzqcbtrpjwlyhcnzusinModuleTests
+        - DlnqrnvjkzxlhbhurbkzModuleTests
+        - KrlunjofmujtpvzrexbaModuleTests
+        - DezsmgpmirchekekvtoqModuleTests
+        - WweiwwzqgfnzoyiuesraModuleTests
+        - BpafyazbftecfwxtlfvnModuleTests
+        - HlpzxwevbcccaocanhgnModuleTests
+        - YhsegajgxgqpnujzkswwModuleTests
+        - TifrvcsioqteybmwacycModuleTests
+        - RbvzbnmnlbwizephknpaModuleTests
+        - IjxecgymqolafrjuystxModuleTests
+        - JhfrijgnrisantioksnuModuleTests
+        - QfylrckhaajyoacynewnModuleTests
+        - QmxqijfwzwtelpnguflkModuleTests
+        - MmmkmciurmjcgvnqitucModuleTests
+        - IptgsfvlwfpzdwwkvypyModuleTests
+        - VdehywrspfmpszdcsdyeModuleTests
+        - XbnciyjbfsieppeseoboModuleTests
+        - ZzlczczkgthohnszcipqModuleTests
+        - UghsrjjythlskbuxjbftModuleTests
+        - UfvugrcscnrdmzinhhvqModuleTests
+        - IbbllvibnydjtmzwybmhModuleTests
+        - SyleizvqisrihyasojspModuleTests
+        - HdytdtrlxseqjcpcebkbModuleTests
+        - LlulehdvywvoxnciwwbkModuleTests
+        - MuuynobtqxdghfrlbqhnModuleTests
+        - PdcizkvliqldgruusjrdModuleTests
+        - MaqefmtxuiyewrrfycxkModuleTests
+        - MebbpnzrtzizijyidyujModuleTests
+        - AyftlhqappgdkopnxtxkModuleTests
+        - QrolxlbvirgykqdlwddpModuleTests
+        - CehharxrdetpbkbakofkModuleTests
+        - FesqayxonbksudigykinModuleTests
+        - ZovquijbxiiuuhamubuaModuleTests
+        - ZailublqxsaorzemibxrModuleTests
+        - YzyollxrbnbepzxsqtvcModuleTests
+        - TiuniqrdsuilfjebpkreModuleTests
+        - PutshxxkapjbeinbmtdcModuleTests
+        - BqyyxjespctecplkjgqyModuleTests
+        - BjzinfxvacpbvoductgkModuleTests
+        - RyxzdpghdkuschihdlmeModuleTests
+        - UjnuvjekauslkuauconjModuleTests
+        - JmjhmkouuxubrnyphwhlModuleTests
+        - HotxnhpmnnllbojmebvxModuleTests
+        - KoraydupicprbcjimxeyModuleTests
+        - GkosewuranoejuvsevjvModuleTests
+        - RsledpvpftjthywyblpgModuleTests
+        - VgfebpsplcgugagiwgjwModuleTests
+        - XmjjrxosrcgyvfyirqvgModuleTests
+        - CnymacwsxrvomulnpgrtModuleTests
+        - TcnnavitisnbycmgdsczModuleTests
+        - EltotqxsdjpzhsldtjheModuleTests
+        - ZjbouooexurcbycogzrcModuleTests
+        - EvsgryycozqjogucdcepModuleTests
+        - GylwmjfckrudneheiaveModuleTests
+        - DxqtrvqemcjpvmeibaizModuleTests
+        - VzkzjqfsnowifbgqdstdModuleTests
+        - BrxiffkgerhksesavaifModuleTests
+        - CgwlgdhlryblmqsoipmbModuleTests
+        - VdszgknmkwodljyzqmzaModuleTests
+        - GdkcbyedqmwwpnrbelveModuleTests
+        - TtlypbclpgeqzbdfzfklModuleTests
+        - TvldngvysfafrfruvfnbModuleTests
+        - TqhjxyjaqpqdvfjccypqModuleTests
+        - FqwjjyldlwjghjsqqzwgModuleTests
+        - FijvvqljeqpxmlvjhoybModuleTests
+        - VojtbyahunoduuyixprqModuleTests
+        - LjrprnmxyphzszcgvzwwModuleTests
+        - VjqehviyaqegmkybetdlModuleTests
+        - GbshmkhbtmfmblgwiuqeModuleTests
+        - FqfzjextppmjecqogjgiModuleTests
+        - YldwjwlllewkrikgbzalModuleTests
+        - DgwcgpopwxbyermawarsModuleTests
+        - FmwcxzenucnysdlrqgheModuleTests
+        - GyhhjwqskuitddsbelloModuleTests
+        - WebkzingpsjpdznpwuymModuleTests
+        - OlmieravqymizmebsceuModuleTests
+        - KcegmwgisdbirffogmysModuleTests
+        - ZihynprprxvhxrjwiweuModuleTests
+        - MiphuorpzvtblaepqbctModuleTests
+        - LbxnqoymsiqjrcehxtxhModuleTests
+        - VcbcnbriroyonhnxmzbiModuleTests
+        - OggnnkdowaxblrkobccbModuleTests
+        - ZinzqsmrjbocpmyouscaModuleTests
+        - HzgvzrnjxamwwgoddxagModuleTests
+        - RzktwwcapfkhdeudieqsModuleTests
+        - CyynidckmbvxsyuiiybbModuleTests
+        - FgywbwecfknsnojvvlsaModuleTests
+        - NnpltubfgycqkgvdiwdnModuleTests
+        - SrjltgelwhitiwqindjlModuleTests
+        - KksayalrctjzcoeyketgModuleTests
+        - KdzqxejfpcvpdlygwodhModuleTests
+        - EddbfirotbbmjshgkezpModuleTests
+        - WrpwuvgxbmcepfdibkunModuleTests
+        - QmcuyeepfdgjdwdvmswnModuleTests
+        - YczyufovzaghqadiagnrModuleTests
+        - UlutzpcqdzsxoajsxqmuModuleTests
+        - ZfzpwlqmjsatasevtiegModuleTests
+        - TuhipjbimzvdnuafourgModuleTests
+        - VltxkbayrffecscjpmiyModuleTests
+        - BszqwxlvzedrruytkixrModuleTests
+        - YpuilcgwxeuuzbyyxameModuleTests
+        - ItspxilosjzefecznygmModuleTests
+        - OcxkabrwiqvvvdtbxiloModuleTests
+        - LfyzsmjdnvaippottcgzModuleTests
+        - IiforqnpweollhrdmeeaModuleTests
   MyAppTests:
     type: bundle.unit-test
     platform: iOS
     dependencies:
       - target: MyApp
     sources: [BazeliOSLabTests]
-  JxsjzzfuwipukbmdhcqyModule:
+  ZxjjpqdmwenwimonfvbuModule:
     type: framework
     platform: iOS
     info:
-      path: Modules/JxsjzzfuwipukbmdhcqyModule/Sources/Info.plist
-    sources: [Modules/JxsjzzfuwipukbmdhcqyModule/Sources]
-  JxsjzzfuwipukbmdhcqyModuleTests:
+      path: Modules/ZxjjpqdmwenwimonfvbuModule/Sources/Info.plist
+    sources: [Modules/ZxjjpqdmwenwimonfvbuModule/Sources]
+  ZxjjpqdmwenwimonfvbuModuleTests:
     type: bundle.unit-test
     platform: iOS
     info:
-      path: Modules/JxsjzzfuwipukbmdhcqyModule/Tests/Info.plist
-    sources: [Modules/JxsjzzfuwipukbmdhcqyModule/Tests]
-  QuhbyghzaycwowspihgsModule:
+      path: Modules/ZxjjpqdmwenwimonfvbuModule/Tests/Info.plist
+    sources: [Modules/ZxjjpqdmwenwimonfvbuModule/Tests]
+  XompbtrrhkzsvkjzhclrModule:
     type: framework
     platform: iOS
     info:
-      path: Modules/QuhbyghzaycwowspihgsModule/Sources/Info.plist
-    sources: [Modules/QuhbyghzaycwowspihgsModule/Sources]
-  QuhbyghzaycwowspihgsModuleTests:
+      path: Modules/XompbtrrhkzsvkjzhclrModule/Sources/Info.plist
+    sources: [Modules/XompbtrrhkzsvkjzhclrModule/Sources]
+  XompbtrrhkzsvkjzhclrModuleTests:
     type: bundle.unit-test
     platform: iOS
     info:
-      path: Modules/QuhbyghzaycwowspihgsModule/Tests/Info.plist
-    sources: [Modules/QuhbyghzaycwowspihgsModule/Tests]
-  MlicwkzhcuswcevotnvoModule:
+      path: Modules/XompbtrrhkzsvkjzhclrModule/Tests/Info.plist
+    sources: [Modules/XompbtrrhkzsvkjzhclrModule/Tests]
+  LowcgtebwdrshmtahpmuModule:
     type: framework
     platform: iOS
     info:
-      path: Modules/MlicwkzhcuswcevotnvoModule/Sources/Info.plist
-    sources: [Modules/MlicwkzhcuswcevotnvoModule/Sources]
-  MlicwkzhcuswcevotnvoModuleTests:
+      path: Modules/LowcgtebwdrshmtahpmuModule/Sources/Info.plist
+    sources: [Modules/LowcgtebwdrshmtahpmuModule/Sources]
+  LowcgtebwdrshmtahpmuModuleTests:
     type: bundle.unit-test
     platform: iOS
     info:
-      path: Modules/MlicwkzhcuswcevotnvoModule/Tests/Info.plist
-    sources: [Modules/MlicwkzhcuswcevotnvoModule/Tests]
-  OlechosbuexcaujsvrefModule:
+      path: Modules/LowcgtebwdrshmtahpmuModule/Tests/Info.plist
+    sources: [Modules/LowcgtebwdrshmtahpmuModule/Tests]
+  VktqzrudtowhwneqiudqModule:
     type: framework
     platform: iOS
     info:
-      path: Modules/OlechosbuexcaujsvrefModule/Sources/Info.plist
-    sources: [Modules/OlechosbuexcaujsvrefModule/Sources]
-  OlechosbuexcaujsvrefModuleTests:
+      path: Modules/VktqzrudtowhwneqiudqModule/Sources/Info.plist
+    sources: [Modules/VktqzrudtowhwneqiudqModule/Sources]
+  VktqzrudtowhwneqiudqModuleTests:
     type: bundle.unit-test
     platform: iOS
     info:
-      path: Modules/OlechosbuexcaujsvrefModule/Tests/Info.plist
-    sources: [Modules/OlechosbuexcaujsvrefModule/Tests]
-  NfxvvhgnxbyyhzghtwscModule:
+      path: Modules/VktqzrudtowhwneqiudqModule/Tests/Info.plist
+    sources: [Modules/VktqzrudtowhwneqiudqModule/Tests]
+  WgqfeuyawddxgknwjexkModule:
     type: framework
     platform: iOS
     info:
-      path: Modules/NfxvvhgnxbyyhzghtwscModule/Sources/Info.plist
-    sources: [Modules/NfxvvhgnxbyyhzghtwscModule/Sources]
-  NfxvvhgnxbyyhzghtwscModuleTests:
+      path: Modules/WgqfeuyawddxgknwjexkModule/Sources/Info.plist
+    sources: [Modules/WgqfeuyawddxgknwjexkModule/Sources]
+  WgqfeuyawddxgknwjexkModuleTests:
     type: bundle.unit-test
     platform: iOS
     info:
-      path: Modules/NfxvvhgnxbyyhzghtwscModule/Tests/Info.plist
-    sources: [Modules/NfxvvhgnxbyyhzghtwscModule/Tests]
-  XkidjvyydgusqgbcqtsvModule:
+      path: Modules/WgqfeuyawddxgknwjexkModule/Tests/Info.plist
+    sources: [Modules/WgqfeuyawddxgknwjexkModule/Tests]
+  EibmwzjehyydxkcinvxwModule:
     type: framework
     platform: iOS
     info:
-      path: Modules/XkidjvyydgusqgbcqtsvModule/Sources/Info.plist
-    sources: [Modules/XkidjvyydgusqgbcqtsvModule/Sources]
-  XkidjvyydgusqgbcqtsvModuleTests:
+      path: Modules/EibmwzjehyydxkcinvxwModule/Sources/Info.plist
+    sources: [Modules/EibmwzjehyydxkcinvxwModule/Sources]
+  EibmwzjehyydxkcinvxwModuleTests:
     type: bundle.unit-test
     platform: iOS
     info:
-      path: Modules/XkidjvyydgusqgbcqtsvModule/Tests/Info.plist
-    sources: [Modules/XkidjvyydgusqgbcqtsvModule/Tests]
+      path: Modules/EibmwzjehyydxkcinvxwModule/Tests/Info.plist
+    sources: [Modules/EibmwzjehyydxkcinvxwModule/Tests]
+  JkrgcqmwetptyhoqdlwpModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/JkrgcqmwetptyhoqdlwpModule/Sources/Info.plist
+    sources: [Modules/JkrgcqmwetptyhoqdlwpModule/Sources]
+  JkrgcqmwetptyhoqdlwpModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/JkrgcqmwetptyhoqdlwpModule/Tests/Info.plist
+    sources: [Modules/JkrgcqmwetptyhoqdlwpModule/Tests]
+  MiyjkynywxddzfzjbarmModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/MiyjkynywxddzfzjbarmModule/Sources/Info.plist
+    sources: [Modules/MiyjkynywxddzfzjbarmModule/Sources]
+  MiyjkynywxddzfzjbarmModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/MiyjkynywxddzfzjbarmModule/Tests/Info.plist
+    sources: [Modules/MiyjkynywxddzfzjbarmModule/Tests]
+  AynwebxveiiitdubmljcModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AynwebxveiiitdubmljcModule/Sources/Info.plist
+    sources: [Modules/AynwebxveiiitdubmljcModule/Sources]
+  AynwebxveiiitdubmljcModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AynwebxveiiitdubmljcModule/Tests/Info.plist
+    sources: [Modules/AynwebxveiiitdubmljcModule/Tests]
+  GjslaycjgqduviiydpcsModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GjslaycjgqduviiydpcsModule/Sources/Info.plist
+    sources: [Modules/GjslaycjgqduviiydpcsModule/Sources]
+  GjslaycjgqduviiydpcsModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GjslaycjgqduviiydpcsModule/Tests/Info.plist
+    sources: [Modules/GjslaycjgqduviiydpcsModule/Tests]
+  LekevuabbrlznjcakzksModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LekevuabbrlznjcakzksModule/Sources/Info.plist
+    sources: [Modules/LekevuabbrlznjcakzksModule/Sources]
+  LekevuabbrlznjcakzksModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LekevuabbrlznjcakzksModule/Tests/Info.plist
+    sources: [Modules/LekevuabbrlznjcakzksModule/Tests]
+  FlzbrptfxdspzwtitwdwModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FlzbrptfxdspzwtitwdwModule/Sources/Info.plist
+    sources: [Modules/FlzbrptfxdspzwtitwdwModule/Sources]
+  FlzbrptfxdspzwtitwdwModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FlzbrptfxdspzwtitwdwModule/Tests/Info.plist
+    sources: [Modules/FlzbrptfxdspzwtitwdwModule/Tests]
+  FfmmvlwmpslylgpnumwxModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FfmmvlwmpslylgpnumwxModule/Sources/Info.plist
+    sources: [Modules/FfmmvlwmpslylgpnumwxModule/Sources]
+  FfmmvlwmpslylgpnumwxModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FfmmvlwmpslylgpnumwxModule/Tests/Info.plist
+    sources: [Modules/FfmmvlwmpslylgpnumwxModule/Tests]
+  RzrmlikyjndqwmikkskeModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RzrmlikyjndqwmikkskeModule/Sources/Info.plist
+    sources: [Modules/RzrmlikyjndqwmikkskeModule/Sources]
+  RzrmlikyjndqwmikkskeModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RzrmlikyjndqwmikkskeModule/Tests/Info.plist
+    sources: [Modules/RzrmlikyjndqwmikkskeModule/Tests]
+  YkjbnicseldqfuoxjuioModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YkjbnicseldqfuoxjuioModule/Sources/Info.plist
+    sources: [Modules/YkjbnicseldqfuoxjuioModule/Sources]
+  YkjbnicseldqfuoxjuioModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YkjbnicseldqfuoxjuioModule/Tests/Info.plist
+    sources: [Modules/YkjbnicseldqfuoxjuioModule/Tests]
+  TbwkdkpelrjwkpchzmswModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TbwkdkpelrjwkpchzmswModule/Sources/Info.plist
+    sources: [Modules/TbwkdkpelrjwkpchzmswModule/Sources]
+  TbwkdkpelrjwkpchzmswModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TbwkdkpelrjwkpchzmswModule/Tests/Info.plist
+    sources: [Modules/TbwkdkpelrjwkpchzmswModule/Tests]
+  WbjojktpjdjdmxukgydgModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/WbjojktpjdjdmxukgydgModule/Sources/Info.plist
+    sources: [Modules/WbjojktpjdjdmxukgydgModule/Sources]
+  WbjojktpjdjdmxukgydgModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/WbjojktpjdjdmxukgydgModule/Tests/Info.plist
+    sources: [Modules/WbjojktpjdjdmxukgydgModule/Tests]
+  NhiksrnvpdrpgipiezhxModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/NhiksrnvpdrpgipiezhxModule/Sources/Info.plist
+    sources: [Modules/NhiksrnvpdrpgipiezhxModule/Sources]
+  NhiksrnvpdrpgipiezhxModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/NhiksrnvpdrpgipiezhxModule/Tests/Info.plist
+    sources: [Modules/NhiksrnvpdrpgipiezhxModule/Tests]
+  OwjmtfyhkkzbsgggaaeiModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OwjmtfyhkkzbsgggaaeiModule/Sources/Info.plist
+    sources: [Modules/OwjmtfyhkkzbsgggaaeiModule/Sources]
+  OwjmtfyhkkzbsgggaaeiModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OwjmtfyhkkzbsgggaaeiModule/Tests/Info.plist
+    sources: [Modules/OwjmtfyhkkzbsgggaaeiModule/Tests]
+  UqdprtakjrlvzeaxzjybModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UqdprtakjrlvzeaxzjybModule/Sources/Info.plist
+    sources: [Modules/UqdprtakjrlvzeaxzjybModule/Sources]
+  UqdprtakjrlvzeaxzjybModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UqdprtakjrlvzeaxzjybModule/Tests/Info.plist
+    sources: [Modules/UqdprtakjrlvzeaxzjybModule/Tests]
+  YsrkwxlbvnnxaekorcpsModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YsrkwxlbvnnxaekorcpsModule/Sources/Info.plist
+    sources: [Modules/YsrkwxlbvnnxaekorcpsModule/Sources]
+  YsrkwxlbvnnxaekorcpsModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YsrkwxlbvnnxaekorcpsModule/Tests/Info.plist
+    sources: [Modules/YsrkwxlbvnnxaekorcpsModule/Tests]
+  OgmhoxqjesctbgallgwpModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OgmhoxqjesctbgallgwpModule/Sources/Info.plist
+    sources: [Modules/OgmhoxqjesctbgallgwpModule/Sources]
+  OgmhoxqjesctbgallgwpModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OgmhoxqjesctbgallgwpModule/Tests/Info.plist
+    sources: [Modules/OgmhoxqjesctbgallgwpModule/Tests]
+  XqghkdbhdwhdcynwiwfaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/XqghkdbhdwhdcynwiwfaModule/Sources/Info.plist
+    sources: [Modules/XqghkdbhdwhdcynwiwfaModule/Sources]
+  XqghkdbhdwhdcynwiwfaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/XqghkdbhdwhdcynwiwfaModule/Tests/Info.plist
+    sources: [Modules/XqghkdbhdwhdcynwiwfaModule/Tests]
+  GcbewwpescbsccyxbowjModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GcbewwpescbsccyxbowjModule/Sources/Info.plist
+    sources: [Modules/GcbewwpescbsccyxbowjModule/Sources]
+  GcbewwpescbsccyxbowjModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GcbewwpescbsccyxbowjModule/Tests/Info.plist
+    sources: [Modules/GcbewwpescbsccyxbowjModule/Tests]
+  JhinkpkfmziihscmwjzxModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/JhinkpkfmziihscmwjzxModule/Sources/Info.plist
+    sources: [Modules/JhinkpkfmziihscmwjzxModule/Sources]
+  JhinkpkfmziihscmwjzxModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/JhinkpkfmziihscmwjzxModule/Tests/Info.plist
+    sources: [Modules/JhinkpkfmziihscmwjzxModule/Tests]
+  ZrxrwjqolxpypwcklprwModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZrxrwjqolxpypwcklprwModule/Sources/Info.plist
+    sources: [Modules/ZrxrwjqolxpypwcklprwModule/Sources]
+  ZrxrwjqolxpypwcklprwModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZrxrwjqolxpypwcklprwModule/Tests/Info.plist
+    sources: [Modules/ZrxrwjqolxpypwcklprwModule/Tests]
+  DxixqbgfrvrvxnivbozrModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/DxixqbgfrvrvxnivbozrModule/Sources/Info.plist
+    sources: [Modules/DxixqbgfrvrvxnivbozrModule/Sources]
+  DxixqbgfrvrvxnivbozrModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/DxixqbgfrvrvxnivbozrModule/Tests/Info.plist
+    sources: [Modules/DxixqbgfrvrvxnivbozrModule/Tests]
+  CegkbxgrdtpqreozpddpModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/CegkbxgrdtpqreozpddpModule/Sources/Info.plist
+    sources: [Modules/CegkbxgrdtpqreozpddpModule/Sources]
+  CegkbxgrdtpqreozpddpModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/CegkbxgrdtpqreozpddpModule/Tests/Info.plist
+    sources: [Modules/CegkbxgrdtpqreozpddpModule/Tests]
+  GtsolifdwnaufkalegipModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GtsolifdwnaufkalegipModule/Sources/Info.plist
+    sources: [Modules/GtsolifdwnaufkalegipModule/Sources]
+  GtsolifdwnaufkalegipModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GtsolifdwnaufkalegipModule/Tests/Info.plist
+    sources: [Modules/GtsolifdwnaufkalegipModule/Tests]
+  QenppubyumpmeifffzgyModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/QenppubyumpmeifffzgyModule/Sources/Info.plist
+    sources: [Modules/QenppubyumpmeifffzgyModule/Sources]
+  QenppubyumpmeifffzgyModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/QenppubyumpmeifffzgyModule/Tests/Info.plist
+    sources: [Modules/QenppubyumpmeifffzgyModule/Tests]
+  ImkmyqasktdjoizvwetqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ImkmyqasktdjoizvwetqModule/Sources/Info.plist
+    sources: [Modules/ImkmyqasktdjoizvwetqModule/Sources]
+  ImkmyqasktdjoizvwetqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ImkmyqasktdjoizvwetqModule/Tests/Info.plist
+    sources: [Modules/ImkmyqasktdjoizvwetqModule/Tests]
+  LlasimpmqksixvyumcbfModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LlasimpmqksixvyumcbfModule/Sources/Info.plist
+    sources: [Modules/LlasimpmqksixvyumcbfModule/Sources]
+  LlasimpmqksixvyumcbfModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LlasimpmqksixvyumcbfModule/Tests/Info.plist
+    sources: [Modules/LlasimpmqksixvyumcbfModule/Tests]
+  ZyjtjrreupmhiaytntudModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZyjtjrreupmhiaytntudModule/Sources/Info.plist
+    sources: [Modules/ZyjtjrreupmhiaytntudModule/Sources]
+  ZyjtjrreupmhiaytntudModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZyjtjrreupmhiaytntudModule/Tests/Info.plist
+    sources: [Modules/ZyjtjrreupmhiaytntudModule/Tests]
+  AefpzevnnlmqwkxbsemoModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AefpzevnnlmqwkxbsemoModule/Sources/Info.plist
+    sources: [Modules/AefpzevnnlmqwkxbsemoModule/Sources]
+  AefpzevnnlmqwkxbsemoModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AefpzevnnlmqwkxbsemoModule/Tests/Info.plist
+    sources: [Modules/AefpzevnnlmqwkxbsemoModule/Tests]
+  YoezkihutzeidxcsxipeModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YoezkihutzeidxcsxipeModule/Sources/Info.plist
+    sources: [Modules/YoezkihutzeidxcsxipeModule/Sources]
+  YoezkihutzeidxcsxipeModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YoezkihutzeidxcsxipeModule/Tests/Info.plist
+    sources: [Modules/YoezkihutzeidxcsxipeModule/Tests]
+  GcqriwwhcyhoafryekwhModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GcqriwwhcyhoafryekwhModule/Sources/Info.plist
+    sources: [Modules/GcqriwwhcyhoafryekwhModule/Sources]
+  GcqriwwhcyhoafryekwhModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GcqriwwhcyhoafryekwhModule/Tests/Info.plist
+    sources: [Modules/GcqriwwhcyhoafryekwhModule/Tests]
+  OxsiqahqndpbngtuuityModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OxsiqahqndpbngtuuityModule/Sources/Info.plist
+    sources: [Modules/OxsiqahqndpbngtuuityModule/Sources]
+  OxsiqahqndpbngtuuityModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OxsiqahqndpbngtuuityModule/Tests/Info.plist
+    sources: [Modules/OxsiqahqndpbngtuuityModule/Tests]
+  MfcsywhuwlxwsupdmavsModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/MfcsywhuwlxwsupdmavsModule/Sources/Info.plist
+    sources: [Modules/MfcsywhuwlxwsupdmavsModule/Sources]
+  MfcsywhuwlxwsupdmavsModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/MfcsywhuwlxwsupdmavsModule/Tests/Info.plist
+    sources: [Modules/MfcsywhuwlxwsupdmavsModule/Tests]
+  KekiswznmfhvodkjydkcModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/KekiswznmfhvodkjydkcModule/Sources/Info.plist
+    sources: [Modules/KekiswznmfhvodkjydkcModule/Sources]
+  KekiswznmfhvodkjydkcModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/KekiswznmfhvodkjydkcModule/Tests/Info.plist
+    sources: [Modules/KekiswznmfhvodkjydkcModule/Tests]
+  JaxqpidjafdjwduwokluModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/JaxqpidjafdjwduwokluModule/Sources/Info.plist
+    sources: [Modules/JaxqpidjafdjwduwokluModule/Sources]
+  JaxqpidjafdjwduwokluModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/JaxqpidjafdjwduwokluModule/Tests/Info.plist
+    sources: [Modules/JaxqpidjafdjwduwokluModule/Tests]
+  OvheibrmjrldkslowptlModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OvheibrmjrldkslowptlModule/Sources/Info.plist
+    sources: [Modules/OvheibrmjrldkslowptlModule/Sources]
+  OvheibrmjrldkslowptlModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OvheibrmjrldkslowptlModule/Tests/Info.plist
+    sources: [Modules/OvheibrmjrldkslowptlModule/Tests]
+  TgrftsafeinaepvpgeplModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TgrftsafeinaepvpgeplModule/Sources/Info.plist
+    sources: [Modules/TgrftsafeinaepvpgeplModule/Sources]
+  TgrftsafeinaepvpgeplModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TgrftsafeinaepvpgeplModule/Tests/Info.plist
+    sources: [Modules/TgrftsafeinaepvpgeplModule/Tests]
+  UzwrhmhadbftvvrghjatModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UzwrhmhadbftvvrghjatModule/Sources/Info.plist
+    sources: [Modules/UzwrhmhadbftvvrghjatModule/Sources]
+  UzwrhmhadbftvvrghjatModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UzwrhmhadbftvvrghjatModule/Tests/Info.plist
+    sources: [Modules/UzwrhmhadbftvvrghjatModule/Tests]
+  UcwqggrbupmlclmprbiwModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UcwqggrbupmlclmprbiwModule/Sources/Info.plist
+    sources: [Modules/UcwqggrbupmlclmprbiwModule/Sources]
+  UcwqggrbupmlclmprbiwModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UcwqggrbupmlclmprbiwModule/Tests/Info.plist
+    sources: [Modules/UcwqggrbupmlclmprbiwModule/Tests]
+  XauhwjzjsswpxhidqkshModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/XauhwjzjsswpxhidqkshModule/Sources/Info.plist
+    sources: [Modules/XauhwjzjsswpxhidqkshModule/Sources]
+  XauhwjzjsswpxhidqkshModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/XauhwjzjsswpxhidqkshModule/Tests/Info.plist
+    sources: [Modules/XauhwjzjsswpxhidqkshModule/Tests]
+  RnpaorrindkzhalwypxcModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RnpaorrindkzhalwypxcModule/Sources/Info.plist
+    sources: [Modules/RnpaorrindkzhalwypxcModule/Sources]
+  RnpaorrindkzhalwypxcModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RnpaorrindkzhalwypxcModule/Tests/Info.plist
+    sources: [Modules/RnpaorrindkzhalwypxcModule/Tests]
+  ZmkfkoulbvotwqzhdjpbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZmkfkoulbvotwqzhdjpbModule/Sources/Info.plist
+    sources: [Modules/ZmkfkoulbvotwqzhdjpbModule/Sources]
+  ZmkfkoulbvotwqzhdjpbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZmkfkoulbvotwqzhdjpbModule/Tests/Info.plist
+    sources: [Modules/ZmkfkoulbvotwqzhdjpbModule/Tests]
+  BieheqfvwcnqioiyohycModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/BieheqfvwcnqioiyohycModule/Sources/Info.plist
+    sources: [Modules/BieheqfvwcnqioiyohycModule/Sources]
+  BieheqfvwcnqioiyohycModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/BieheqfvwcnqioiyohycModule/Tests/Info.plist
+    sources: [Modules/BieheqfvwcnqioiyohycModule/Tests]
+  RhslifwcikahosfnolqqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RhslifwcikahosfnolqqModule/Sources/Info.plist
+    sources: [Modules/RhslifwcikahosfnolqqModule/Sources]
+  RhslifwcikahosfnolqqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RhslifwcikahosfnolqqModule/Tests/Info.plist
+    sources: [Modules/RhslifwcikahosfnolqqModule/Tests]
+  JjqtmnvlmywwunetsmvpModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/JjqtmnvlmywwunetsmvpModule/Sources/Info.plist
+    sources: [Modules/JjqtmnvlmywwunetsmvpModule/Sources]
+  JjqtmnvlmywwunetsmvpModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/JjqtmnvlmywwunetsmvpModule/Tests/Info.plist
+    sources: [Modules/JjqtmnvlmywwunetsmvpModule/Tests]
+  ZfhyzzqyriotlmioawovModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZfhyzzqyriotlmioawovModule/Sources/Info.plist
+    sources: [Modules/ZfhyzzqyriotlmioawovModule/Sources]
+  ZfhyzzqyriotlmioawovModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZfhyzzqyriotlmioawovModule/Tests/Info.plist
+    sources: [Modules/ZfhyzzqyriotlmioawovModule/Tests]
+  AyowopvseidoxbscbnuaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AyowopvseidoxbscbnuaModule/Sources/Info.plist
+    sources: [Modules/AyowopvseidoxbscbnuaModule/Sources]
+  AyowopvseidoxbscbnuaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AyowopvseidoxbscbnuaModule/Tests/Info.plist
+    sources: [Modules/AyowopvseidoxbscbnuaModule/Tests]
+  ZfwigrwtbhfmfapxrdqiModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZfwigrwtbhfmfapxrdqiModule/Sources/Info.plist
+    sources: [Modules/ZfwigrwtbhfmfapxrdqiModule/Sources]
+  ZfwigrwtbhfmfapxrdqiModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZfwigrwtbhfmfapxrdqiModule/Tests/Info.plist
+    sources: [Modules/ZfwigrwtbhfmfapxrdqiModule/Tests]
+  NnkhnwvuunqhbjqgefnnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/NnkhnwvuunqhbjqgefnnModule/Sources/Info.plist
+    sources: [Modules/NnkhnwvuunqhbjqgefnnModule/Sources]
+  NnkhnwvuunqhbjqgefnnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/NnkhnwvuunqhbjqgefnnModule/Tests/Info.plist
+    sources: [Modules/NnkhnwvuunqhbjqgefnnModule/Tests]
+  VnzdkxsqszwyqgqtdzxeModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VnzdkxsqszwyqgqtdzxeModule/Sources/Info.plist
+    sources: [Modules/VnzdkxsqszwyqgqtdzxeModule/Sources]
+  VnzdkxsqszwyqgqtdzxeModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VnzdkxsqszwyqgqtdzxeModule/Tests/Info.plist
+    sources: [Modules/VnzdkxsqszwyqgqtdzxeModule/Tests]
+  GyscgoxyrhwyupkvxsfkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GyscgoxyrhwyupkvxsfkModule/Sources/Info.plist
+    sources: [Modules/GyscgoxyrhwyupkvxsfkModule/Sources]
+  GyscgoxyrhwyupkvxsfkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GyscgoxyrhwyupkvxsfkModule/Tests/Info.plist
+    sources: [Modules/GyscgoxyrhwyupkvxsfkModule/Tests]
+  HmonofgpalpiinmuysjwModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/HmonofgpalpiinmuysjwModule/Sources/Info.plist
+    sources: [Modules/HmonofgpalpiinmuysjwModule/Sources]
+  HmonofgpalpiinmuysjwModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/HmonofgpalpiinmuysjwModule/Tests/Info.plist
+    sources: [Modules/HmonofgpalpiinmuysjwModule/Tests]
+  FezjpfjaniigdsiocgkpModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FezjpfjaniigdsiocgkpModule/Sources/Info.plist
+    sources: [Modules/FezjpfjaniigdsiocgkpModule/Sources]
+  FezjpfjaniigdsiocgkpModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FezjpfjaniigdsiocgkpModule/Tests/Info.plist
+    sources: [Modules/FezjpfjaniigdsiocgkpModule/Tests]
+  AyyfuwyxgdecwvlvicxvModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AyyfuwyxgdecwvlvicxvModule/Sources/Info.plist
+    sources: [Modules/AyyfuwyxgdecwvlvicxvModule/Sources]
+  AyyfuwyxgdecwvlvicxvModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AyyfuwyxgdecwvlvicxvModule/Tests/Info.plist
+    sources: [Modules/AyyfuwyxgdecwvlvicxvModule/Tests]
+  XnkvdtemebxgitsjdqugModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/XnkvdtemebxgitsjdqugModule/Sources/Info.plist
+    sources: [Modules/XnkvdtemebxgitsjdqugModule/Sources]
+  XnkvdtemebxgitsjdqugModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/XnkvdtemebxgitsjdqugModule/Tests/Info.plist
+    sources: [Modules/XnkvdtemebxgitsjdqugModule/Tests]
+  CtdytykvregszzqcanbfModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/CtdytykvregszzqcanbfModule/Sources/Info.plist
+    sources: [Modules/CtdytykvregszzqcanbfModule/Sources]
+  CtdytykvregszzqcanbfModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/CtdytykvregszzqcanbfModule/Tests/Info.plist
+    sources: [Modules/CtdytykvregszzqcanbfModule/Tests]
+  HtedpbanrauhftjftxrkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/HtedpbanrauhftjftxrkModule/Sources/Info.plist
+    sources: [Modules/HtedpbanrauhftjftxrkModule/Sources]
+  HtedpbanrauhftjftxrkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/HtedpbanrauhftjftxrkModule/Tests/Info.plist
+    sources: [Modules/HtedpbanrauhftjftxrkModule/Tests]
+  UkzummrpyosemqtfxehrModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UkzummrpyosemqtfxehrModule/Sources/Info.plist
+    sources: [Modules/UkzummrpyosemqtfxehrModule/Sources]
+  UkzummrpyosemqtfxehrModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UkzummrpyosemqtfxehrModule/Tests/Info.plist
+    sources: [Modules/UkzummrpyosemqtfxehrModule/Tests]
+  ZpuzxyolrxeqrwcgvvlmModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZpuzxyolrxeqrwcgvvlmModule/Sources/Info.plist
+    sources: [Modules/ZpuzxyolrxeqrwcgvvlmModule/Sources]
+  ZpuzxyolrxeqrwcgvvlmModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZpuzxyolrxeqrwcgvvlmModule/Tests/Info.plist
+    sources: [Modules/ZpuzxyolrxeqrwcgvvlmModule/Tests]
+  HvgtynemlaumovnqaucoModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/HvgtynemlaumovnqaucoModule/Sources/Info.plist
+    sources: [Modules/HvgtynemlaumovnqaucoModule/Sources]
+  HvgtynemlaumovnqaucoModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/HvgtynemlaumovnqaucoModule/Tests/Info.plist
+    sources: [Modules/HvgtynemlaumovnqaucoModule/Tests]
+  AkxnwnlcwwoyunnyepeyModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AkxnwnlcwwoyunnyepeyModule/Sources/Info.plist
+    sources: [Modules/AkxnwnlcwwoyunnyepeyModule/Sources]
+  AkxnwnlcwwoyunnyepeyModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AkxnwnlcwwoyunnyepeyModule/Tests/Info.plist
+    sources: [Modules/AkxnwnlcwwoyunnyepeyModule/Tests]
+  LspoeafjkjfhysmygrunModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LspoeafjkjfhysmygrunModule/Sources/Info.plist
+    sources: [Modules/LspoeafjkjfhysmygrunModule/Sources]
+  LspoeafjkjfhysmygrunModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LspoeafjkjfhysmygrunModule/Tests/Info.plist
+    sources: [Modules/LspoeafjkjfhysmygrunModule/Tests]
+  GjurrfmcqaewgoqaunihModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GjurrfmcqaewgoqaunihModule/Sources/Info.plist
+    sources: [Modules/GjurrfmcqaewgoqaunihModule/Sources]
+  GjurrfmcqaewgoqaunihModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GjurrfmcqaewgoqaunihModule/Tests/Info.plist
+    sources: [Modules/GjurrfmcqaewgoqaunihModule/Tests]
+  FdybmqezriruvtedioapModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FdybmqezriruvtedioapModule/Sources/Info.plist
+    sources: [Modules/FdybmqezriruvtedioapModule/Sources]
+  FdybmqezriruvtedioapModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FdybmqezriruvtedioapModule/Tests/Info.plist
+    sources: [Modules/FdybmqezriruvtedioapModule/Tests]
+  LvwfybugorhkannqdlflModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LvwfybugorhkannqdlflModule/Sources/Info.plist
+    sources: [Modules/LvwfybugorhkannqdlflModule/Sources]
+  LvwfybugorhkannqdlflModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LvwfybugorhkannqdlflModule/Tests/Info.plist
+    sources: [Modules/LvwfybugorhkannqdlflModule/Tests]
+  PcydposbdqeawmnkwveaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/PcydposbdqeawmnkwveaModule/Sources/Info.plist
+    sources: [Modules/PcydposbdqeawmnkwveaModule/Sources]
+  PcydposbdqeawmnkwveaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/PcydposbdqeawmnkwveaModule/Tests/Info.plist
+    sources: [Modules/PcydposbdqeawmnkwveaModule/Tests]
+  FcdiubafkgajyfwxkzntModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FcdiubafkgajyfwxkzntModule/Sources/Info.plist
+    sources: [Modules/FcdiubafkgajyfwxkzntModule/Sources]
+  FcdiubafkgajyfwxkzntModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FcdiubafkgajyfwxkzntModule/Tests/Info.plist
+    sources: [Modules/FcdiubafkgajyfwxkzntModule/Tests]
+  WvhelivgmnddqnaypisnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/WvhelivgmnddqnaypisnModule/Sources/Info.plist
+    sources: [Modules/WvhelivgmnddqnaypisnModule/Sources]
+  WvhelivgmnddqnaypisnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/WvhelivgmnddqnaypisnModule/Tests/Info.plist
+    sources: [Modules/WvhelivgmnddqnaypisnModule/Tests]
+  PywemovpwohcnkxdxchnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/PywemovpwohcnkxdxchnModule/Sources/Info.plist
+    sources: [Modules/PywemovpwohcnkxdxchnModule/Sources]
+  PywemovpwohcnkxdxchnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/PywemovpwohcnkxdxchnModule/Tests/Info.plist
+    sources: [Modules/PywemovpwohcnkxdxchnModule/Tests]
+  VvwyyiwugmkfqrnlhwqtModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VvwyyiwugmkfqrnlhwqtModule/Sources/Info.plist
+    sources: [Modules/VvwyyiwugmkfqrnlhwqtModule/Sources]
+  VvwyyiwugmkfqrnlhwqtModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VvwyyiwugmkfqrnlhwqtModule/Tests/Info.plist
+    sources: [Modules/VvwyyiwugmkfqrnlhwqtModule/Tests]
+  JealkwijubewvdlwspkzModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/JealkwijubewvdlwspkzModule/Sources/Info.plist
+    sources: [Modules/JealkwijubewvdlwspkzModule/Sources]
+  JealkwijubewvdlwspkzModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/JealkwijubewvdlwspkzModule/Tests/Info.plist
+    sources: [Modules/JealkwijubewvdlwspkzModule/Tests]
+  SvsvznotzhbmxiqqvbvmModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/SvsvznotzhbmxiqqvbvmModule/Sources/Info.plist
+    sources: [Modules/SvsvznotzhbmxiqqvbvmModule/Sources]
+  SvsvznotzhbmxiqqvbvmModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/SvsvznotzhbmxiqqvbvmModule/Tests/Info.plist
+    sources: [Modules/SvsvznotzhbmxiqqvbvmModule/Tests]
+  VpubnpsafzqpepwcrhrxModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VpubnpsafzqpepwcrhrxModule/Sources/Info.plist
+    sources: [Modules/VpubnpsafzqpepwcrhrxModule/Sources]
+  VpubnpsafzqpepwcrhrxModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VpubnpsafzqpepwcrhrxModule/Tests/Info.plist
+    sources: [Modules/VpubnpsafzqpepwcrhrxModule/Tests]
+  OqgqzvkaqviihzbrjpedModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OqgqzvkaqviihzbrjpedModule/Sources/Info.plist
+    sources: [Modules/OqgqzvkaqviihzbrjpedModule/Sources]
+  OqgqzvkaqviihzbrjpedModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OqgqzvkaqviihzbrjpedModule/Tests/Info.plist
+    sources: [Modules/OqgqzvkaqviihzbrjpedModule/Tests]
+  FwtmtwymevhkvzynyqujModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FwtmtwymevhkvzynyqujModule/Sources/Info.plist
+    sources: [Modules/FwtmtwymevhkvzynyqujModule/Sources]
+  FwtmtwymevhkvzynyqujModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FwtmtwymevhkvzynyqujModule/Tests/Info.plist
+    sources: [Modules/FwtmtwymevhkvzynyqujModule/Tests]
+  VsldcsgfeyppezqphxkvModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VsldcsgfeyppezqphxkvModule/Sources/Info.plist
+    sources: [Modules/VsldcsgfeyppezqphxkvModule/Sources]
+  VsldcsgfeyppezqphxkvModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VsldcsgfeyppezqphxkvModule/Tests/Info.plist
+    sources: [Modules/VsldcsgfeyppezqphxkvModule/Tests]
+  TairzuppzbgvadmwpopyModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TairzuppzbgvadmwpopyModule/Sources/Info.plist
+    sources: [Modules/TairzuppzbgvadmwpopyModule/Sources]
+  TairzuppzbgvadmwpopyModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TairzuppzbgvadmwpopyModule/Tests/Info.plist
+    sources: [Modules/TairzuppzbgvadmwpopyModule/Tests]
+  EtuyqblqgkdjriosrkfnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/EtuyqblqgkdjriosrkfnModule/Sources/Info.plist
+    sources: [Modules/EtuyqblqgkdjriosrkfnModule/Sources]
+  EtuyqblqgkdjriosrkfnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/EtuyqblqgkdjriosrkfnModule/Tests/Info.plist
+    sources: [Modules/EtuyqblqgkdjriosrkfnModule/Tests]
+  RbggckcrrgseeoheyoqbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RbggckcrrgseeoheyoqbModule/Sources/Info.plist
+    sources: [Modules/RbggckcrrgseeoheyoqbModule/Sources]
+  RbggckcrrgseeoheyoqbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RbggckcrrgseeoheyoqbModule/Tests/Info.plist
+    sources: [Modules/RbggckcrrgseeoheyoqbModule/Tests]
+  ArwhactahjniirbdlwdnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ArwhactahjniirbdlwdnModule/Sources/Info.plist
+    sources: [Modules/ArwhactahjniirbdlwdnModule/Sources]
+  ArwhactahjniirbdlwdnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ArwhactahjniirbdlwdnModule/Tests/Info.plist
+    sources: [Modules/ArwhactahjniirbdlwdnModule/Tests]
+  LbhrmatfedoaqxaqaskjModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LbhrmatfedoaqxaqaskjModule/Sources/Info.plist
+    sources: [Modules/LbhrmatfedoaqxaqaskjModule/Sources]
+  LbhrmatfedoaqxaqaskjModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LbhrmatfedoaqxaqaskjModule/Tests/Info.plist
+    sources: [Modules/LbhrmatfedoaqxaqaskjModule/Tests]
+  AniyabxodkwngqtpempxModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AniyabxodkwngqtpempxModule/Sources/Info.plist
+    sources: [Modules/AniyabxodkwngqtpempxModule/Sources]
+  AniyabxodkwngqtpempxModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AniyabxodkwngqtpempxModule/Tests/Info.plist
+    sources: [Modules/AniyabxodkwngqtpempxModule/Tests]
+  ZzraebknxulgakrwazxrModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZzraebknxulgakrwazxrModule/Sources/Info.plist
+    sources: [Modules/ZzraebknxulgakrwazxrModule/Sources]
+  ZzraebknxulgakrwazxrModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZzraebknxulgakrwazxrModule/Tests/Info.plist
+    sources: [Modules/ZzraebknxulgakrwazxrModule/Tests]
+  WkhlchcoyksiatksifbzModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/WkhlchcoyksiatksifbzModule/Sources/Info.plist
+    sources: [Modules/WkhlchcoyksiatksifbzModule/Sources]
+  WkhlchcoyksiatksifbzModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/WkhlchcoyksiatksifbzModule/Tests/Info.plist
+    sources: [Modules/WkhlchcoyksiatksifbzModule/Tests]
+  TnnupobjecvywqaqqsiiModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TnnupobjecvywqaqqsiiModule/Sources/Info.plist
+    sources: [Modules/TnnupobjecvywqaqqsiiModule/Sources]
+  TnnupobjecvywqaqqsiiModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TnnupobjecvywqaqqsiiModule/Tests/Info.plist
+    sources: [Modules/TnnupobjecvywqaqqsiiModule/Tests]
+  UjfnlyapcpfifkwztmihModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UjfnlyapcpfifkwztmihModule/Sources/Info.plist
+    sources: [Modules/UjfnlyapcpfifkwztmihModule/Sources]
+  UjfnlyapcpfifkwztmihModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UjfnlyapcpfifkwztmihModule/Tests/Info.plist
+    sources: [Modules/UjfnlyapcpfifkwztmihModule/Tests]
+  WmiqgogjflocggnulhshModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/WmiqgogjflocggnulhshModule/Sources/Info.plist
+    sources: [Modules/WmiqgogjflocggnulhshModule/Sources]
+  WmiqgogjflocggnulhshModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/WmiqgogjflocggnulhshModule/Tests/Info.plist
+    sources: [Modules/WmiqgogjflocggnulhshModule/Tests]
+  LcezmzkvogoxfkysiqzbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LcezmzkvogoxfkysiqzbModule/Sources/Info.plist
+    sources: [Modules/LcezmzkvogoxfkysiqzbModule/Sources]
+  LcezmzkvogoxfkysiqzbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LcezmzkvogoxfkysiqzbModule/Tests/Info.plist
+    sources: [Modules/LcezmzkvogoxfkysiqzbModule/Tests]
+  DzsforucxvcqvoimnhieModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/DzsforucxvcqvoimnhieModule/Sources/Info.plist
+    sources: [Modules/DzsforucxvcqvoimnhieModule/Sources]
+  DzsforucxvcqvoimnhieModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/DzsforucxvcqvoimnhieModule/Tests/Info.plist
+    sources: [Modules/DzsforucxvcqvoimnhieModule/Tests]
+  GoqcabntnuzualhpiglqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GoqcabntnuzualhpiglqModule/Sources/Info.plist
+    sources: [Modules/GoqcabntnuzualhpiglqModule/Sources]
+  GoqcabntnuzualhpiglqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GoqcabntnuzualhpiglqModule/Tests/Info.plist
+    sources: [Modules/GoqcabntnuzualhpiglqModule/Tests]
+  AzqcbtrpjwlyhcnzusinModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AzqcbtrpjwlyhcnzusinModule/Sources/Info.plist
+    sources: [Modules/AzqcbtrpjwlyhcnzusinModule/Sources]
+  AzqcbtrpjwlyhcnzusinModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AzqcbtrpjwlyhcnzusinModule/Tests/Info.plist
+    sources: [Modules/AzqcbtrpjwlyhcnzusinModule/Tests]
+  DlnqrnvjkzxlhbhurbkzModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/DlnqrnvjkzxlhbhurbkzModule/Sources/Info.plist
+    sources: [Modules/DlnqrnvjkzxlhbhurbkzModule/Sources]
+  DlnqrnvjkzxlhbhurbkzModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/DlnqrnvjkzxlhbhurbkzModule/Tests/Info.plist
+    sources: [Modules/DlnqrnvjkzxlhbhurbkzModule/Tests]
+  KrlunjofmujtpvzrexbaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/KrlunjofmujtpvzrexbaModule/Sources/Info.plist
+    sources: [Modules/KrlunjofmujtpvzrexbaModule/Sources]
+  KrlunjofmujtpvzrexbaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/KrlunjofmujtpvzrexbaModule/Tests/Info.plist
+    sources: [Modules/KrlunjofmujtpvzrexbaModule/Tests]
+  DezsmgpmirchekekvtoqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/DezsmgpmirchekekvtoqModule/Sources/Info.plist
+    sources: [Modules/DezsmgpmirchekekvtoqModule/Sources]
+  DezsmgpmirchekekvtoqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/DezsmgpmirchekekvtoqModule/Tests/Info.plist
+    sources: [Modules/DezsmgpmirchekekvtoqModule/Tests]
+  WweiwwzqgfnzoyiuesraModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/WweiwwzqgfnzoyiuesraModule/Sources/Info.plist
+    sources: [Modules/WweiwwzqgfnzoyiuesraModule/Sources]
+  WweiwwzqgfnzoyiuesraModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/WweiwwzqgfnzoyiuesraModule/Tests/Info.plist
+    sources: [Modules/WweiwwzqgfnzoyiuesraModule/Tests]
+  BpafyazbftecfwxtlfvnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/BpafyazbftecfwxtlfvnModule/Sources/Info.plist
+    sources: [Modules/BpafyazbftecfwxtlfvnModule/Sources]
+  BpafyazbftecfwxtlfvnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/BpafyazbftecfwxtlfvnModule/Tests/Info.plist
+    sources: [Modules/BpafyazbftecfwxtlfvnModule/Tests]
+  HlpzxwevbcccaocanhgnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/HlpzxwevbcccaocanhgnModule/Sources/Info.plist
+    sources: [Modules/HlpzxwevbcccaocanhgnModule/Sources]
+  HlpzxwevbcccaocanhgnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/HlpzxwevbcccaocanhgnModule/Tests/Info.plist
+    sources: [Modules/HlpzxwevbcccaocanhgnModule/Tests]
+  YhsegajgxgqpnujzkswwModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YhsegajgxgqpnujzkswwModule/Sources/Info.plist
+    sources: [Modules/YhsegajgxgqpnujzkswwModule/Sources]
+  YhsegajgxgqpnujzkswwModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YhsegajgxgqpnujzkswwModule/Tests/Info.plist
+    sources: [Modules/YhsegajgxgqpnujzkswwModule/Tests]
+  TifrvcsioqteybmwacycModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TifrvcsioqteybmwacycModule/Sources/Info.plist
+    sources: [Modules/TifrvcsioqteybmwacycModule/Sources]
+  TifrvcsioqteybmwacycModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TifrvcsioqteybmwacycModule/Tests/Info.plist
+    sources: [Modules/TifrvcsioqteybmwacycModule/Tests]
+  RbvzbnmnlbwizephknpaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RbvzbnmnlbwizephknpaModule/Sources/Info.plist
+    sources: [Modules/RbvzbnmnlbwizephknpaModule/Sources]
+  RbvzbnmnlbwizephknpaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RbvzbnmnlbwizephknpaModule/Tests/Info.plist
+    sources: [Modules/RbvzbnmnlbwizephknpaModule/Tests]
+  IjxecgymqolafrjuystxModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/IjxecgymqolafrjuystxModule/Sources/Info.plist
+    sources: [Modules/IjxecgymqolafrjuystxModule/Sources]
+  IjxecgymqolafrjuystxModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/IjxecgymqolafrjuystxModule/Tests/Info.plist
+    sources: [Modules/IjxecgymqolafrjuystxModule/Tests]
+  JhfrijgnrisantioksnuModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/JhfrijgnrisantioksnuModule/Sources/Info.plist
+    sources: [Modules/JhfrijgnrisantioksnuModule/Sources]
+  JhfrijgnrisantioksnuModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/JhfrijgnrisantioksnuModule/Tests/Info.plist
+    sources: [Modules/JhfrijgnrisantioksnuModule/Tests]
+  QfylrckhaajyoacynewnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/QfylrckhaajyoacynewnModule/Sources/Info.plist
+    sources: [Modules/QfylrckhaajyoacynewnModule/Sources]
+  QfylrckhaajyoacynewnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/QfylrckhaajyoacynewnModule/Tests/Info.plist
+    sources: [Modules/QfylrckhaajyoacynewnModule/Tests]
+  QmxqijfwzwtelpnguflkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/QmxqijfwzwtelpnguflkModule/Sources/Info.plist
+    sources: [Modules/QmxqijfwzwtelpnguflkModule/Sources]
+  QmxqijfwzwtelpnguflkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/QmxqijfwzwtelpnguflkModule/Tests/Info.plist
+    sources: [Modules/QmxqijfwzwtelpnguflkModule/Tests]
+  MmmkmciurmjcgvnqitucModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/MmmkmciurmjcgvnqitucModule/Sources/Info.plist
+    sources: [Modules/MmmkmciurmjcgvnqitucModule/Sources]
+  MmmkmciurmjcgvnqitucModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/MmmkmciurmjcgvnqitucModule/Tests/Info.plist
+    sources: [Modules/MmmkmciurmjcgvnqitucModule/Tests]
+  IptgsfvlwfpzdwwkvypyModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/IptgsfvlwfpzdwwkvypyModule/Sources/Info.plist
+    sources: [Modules/IptgsfvlwfpzdwwkvypyModule/Sources]
+  IptgsfvlwfpzdwwkvypyModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/IptgsfvlwfpzdwwkvypyModule/Tests/Info.plist
+    sources: [Modules/IptgsfvlwfpzdwwkvypyModule/Tests]
+  VdehywrspfmpszdcsdyeModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VdehywrspfmpszdcsdyeModule/Sources/Info.plist
+    sources: [Modules/VdehywrspfmpszdcsdyeModule/Sources]
+  VdehywrspfmpszdcsdyeModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VdehywrspfmpszdcsdyeModule/Tests/Info.plist
+    sources: [Modules/VdehywrspfmpszdcsdyeModule/Tests]
+  XbnciyjbfsieppeseoboModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/XbnciyjbfsieppeseoboModule/Sources/Info.plist
+    sources: [Modules/XbnciyjbfsieppeseoboModule/Sources]
+  XbnciyjbfsieppeseoboModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/XbnciyjbfsieppeseoboModule/Tests/Info.plist
+    sources: [Modules/XbnciyjbfsieppeseoboModule/Tests]
+  ZzlczczkgthohnszcipqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZzlczczkgthohnszcipqModule/Sources/Info.plist
+    sources: [Modules/ZzlczczkgthohnszcipqModule/Sources]
+  ZzlczczkgthohnszcipqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZzlczczkgthohnszcipqModule/Tests/Info.plist
+    sources: [Modules/ZzlczczkgthohnszcipqModule/Tests]
+  UghsrjjythlskbuxjbftModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UghsrjjythlskbuxjbftModule/Sources/Info.plist
+    sources: [Modules/UghsrjjythlskbuxjbftModule/Sources]
+  UghsrjjythlskbuxjbftModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UghsrjjythlskbuxjbftModule/Tests/Info.plist
+    sources: [Modules/UghsrjjythlskbuxjbftModule/Tests]
+  UfvugrcscnrdmzinhhvqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UfvugrcscnrdmzinhhvqModule/Sources/Info.plist
+    sources: [Modules/UfvugrcscnrdmzinhhvqModule/Sources]
+  UfvugrcscnrdmzinhhvqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UfvugrcscnrdmzinhhvqModule/Tests/Info.plist
+    sources: [Modules/UfvugrcscnrdmzinhhvqModule/Tests]
+  IbbllvibnydjtmzwybmhModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/IbbllvibnydjtmzwybmhModule/Sources/Info.plist
+    sources: [Modules/IbbllvibnydjtmzwybmhModule/Sources]
+  IbbllvibnydjtmzwybmhModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/IbbllvibnydjtmzwybmhModule/Tests/Info.plist
+    sources: [Modules/IbbllvibnydjtmzwybmhModule/Tests]
+  SyleizvqisrihyasojspModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/SyleizvqisrihyasojspModule/Sources/Info.plist
+    sources: [Modules/SyleizvqisrihyasojspModule/Sources]
+  SyleizvqisrihyasojspModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/SyleizvqisrihyasojspModule/Tests/Info.plist
+    sources: [Modules/SyleizvqisrihyasojspModule/Tests]
+  HdytdtrlxseqjcpcebkbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/HdytdtrlxseqjcpcebkbModule/Sources/Info.plist
+    sources: [Modules/HdytdtrlxseqjcpcebkbModule/Sources]
+  HdytdtrlxseqjcpcebkbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/HdytdtrlxseqjcpcebkbModule/Tests/Info.plist
+    sources: [Modules/HdytdtrlxseqjcpcebkbModule/Tests]
+  LlulehdvywvoxnciwwbkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LlulehdvywvoxnciwwbkModule/Sources/Info.plist
+    sources: [Modules/LlulehdvywvoxnciwwbkModule/Sources]
+  LlulehdvywvoxnciwwbkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LlulehdvywvoxnciwwbkModule/Tests/Info.plist
+    sources: [Modules/LlulehdvywvoxnciwwbkModule/Tests]
+  MuuynobtqxdghfrlbqhnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/MuuynobtqxdghfrlbqhnModule/Sources/Info.plist
+    sources: [Modules/MuuynobtqxdghfrlbqhnModule/Sources]
+  MuuynobtqxdghfrlbqhnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/MuuynobtqxdghfrlbqhnModule/Tests/Info.plist
+    sources: [Modules/MuuynobtqxdghfrlbqhnModule/Tests]
+  PdcizkvliqldgruusjrdModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/PdcizkvliqldgruusjrdModule/Sources/Info.plist
+    sources: [Modules/PdcizkvliqldgruusjrdModule/Sources]
+  PdcizkvliqldgruusjrdModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/PdcizkvliqldgruusjrdModule/Tests/Info.plist
+    sources: [Modules/PdcizkvliqldgruusjrdModule/Tests]
+  MaqefmtxuiyewrrfycxkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/MaqefmtxuiyewrrfycxkModule/Sources/Info.plist
+    sources: [Modules/MaqefmtxuiyewrrfycxkModule/Sources]
+  MaqefmtxuiyewrrfycxkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/MaqefmtxuiyewrrfycxkModule/Tests/Info.plist
+    sources: [Modules/MaqefmtxuiyewrrfycxkModule/Tests]
+  MebbpnzrtzizijyidyujModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/MebbpnzrtzizijyidyujModule/Sources/Info.plist
+    sources: [Modules/MebbpnzrtzizijyidyujModule/Sources]
+  MebbpnzrtzizijyidyujModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/MebbpnzrtzizijyidyujModule/Tests/Info.plist
+    sources: [Modules/MebbpnzrtzizijyidyujModule/Tests]
+  AyftlhqappgdkopnxtxkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/AyftlhqappgdkopnxtxkModule/Sources/Info.plist
+    sources: [Modules/AyftlhqappgdkopnxtxkModule/Sources]
+  AyftlhqappgdkopnxtxkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/AyftlhqappgdkopnxtxkModule/Tests/Info.plist
+    sources: [Modules/AyftlhqappgdkopnxtxkModule/Tests]
+  QrolxlbvirgykqdlwddpModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/QrolxlbvirgykqdlwddpModule/Sources/Info.plist
+    sources: [Modules/QrolxlbvirgykqdlwddpModule/Sources]
+  QrolxlbvirgykqdlwddpModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/QrolxlbvirgykqdlwddpModule/Tests/Info.plist
+    sources: [Modules/QrolxlbvirgykqdlwddpModule/Tests]
+  CehharxrdetpbkbakofkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/CehharxrdetpbkbakofkModule/Sources/Info.plist
+    sources: [Modules/CehharxrdetpbkbakofkModule/Sources]
+  CehharxrdetpbkbakofkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/CehharxrdetpbkbakofkModule/Tests/Info.plist
+    sources: [Modules/CehharxrdetpbkbakofkModule/Tests]
+  FesqayxonbksudigykinModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FesqayxonbksudigykinModule/Sources/Info.plist
+    sources: [Modules/FesqayxonbksudigykinModule/Sources]
+  FesqayxonbksudigykinModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FesqayxonbksudigykinModule/Tests/Info.plist
+    sources: [Modules/FesqayxonbksudigykinModule/Tests]
+  ZovquijbxiiuuhamubuaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZovquijbxiiuuhamubuaModule/Sources/Info.plist
+    sources: [Modules/ZovquijbxiiuuhamubuaModule/Sources]
+  ZovquijbxiiuuhamubuaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZovquijbxiiuuhamubuaModule/Tests/Info.plist
+    sources: [Modules/ZovquijbxiiuuhamubuaModule/Tests]
+  ZailublqxsaorzemibxrModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZailublqxsaorzemibxrModule/Sources/Info.plist
+    sources: [Modules/ZailublqxsaorzemibxrModule/Sources]
+  ZailublqxsaorzemibxrModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZailublqxsaorzemibxrModule/Tests/Info.plist
+    sources: [Modules/ZailublqxsaorzemibxrModule/Tests]
+  YzyollxrbnbepzxsqtvcModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YzyollxrbnbepzxsqtvcModule/Sources/Info.plist
+    sources: [Modules/YzyollxrbnbepzxsqtvcModule/Sources]
+  YzyollxrbnbepzxsqtvcModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YzyollxrbnbepzxsqtvcModule/Tests/Info.plist
+    sources: [Modules/YzyollxrbnbepzxsqtvcModule/Tests]
+  TiuniqrdsuilfjebpkreModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TiuniqrdsuilfjebpkreModule/Sources/Info.plist
+    sources: [Modules/TiuniqrdsuilfjebpkreModule/Sources]
+  TiuniqrdsuilfjebpkreModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TiuniqrdsuilfjebpkreModule/Tests/Info.plist
+    sources: [Modules/TiuniqrdsuilfjebpkreModule/Tests]
+  PutshxxkapjbeinbmtdcModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/PutshxxkapjbeinbmtdcModule/Sources/Info.plist
+    sources: [Modules/PutshxxkapjbeinbmtdcModule/Sources]
+  PutshxxkapjbeinbmtdcModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/PutshxxkapjbeinbmtdcModule/Tests/Info.plist
+    sources: [Modules/PutshxxkapjbeinbmtdcModule/Tests]
+  BqyyxjespctecplkjgqyModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/BqyyxjespctecplkjgqyModule/Sources/Info.plist
+    sources: [Modules/BqyyxjespctecplkjgqyModule/Sources]
+  BqyyxjespctecplkjgqyModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/BqyyxjespctecplkjgqyModule/Tests/Info.plist
+    sources: [Modules/BqyyxjespctecplkjgqyModule/Tests]
+  BjzinfxvacpbvoductgkModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/BjzinfxvacpbvoductgkModule/Sources/Info.plist
+    sources: [Modules/BjzinfxvacpbvoductgkModule/Sources]
+  BjzinfxvacpbvoductgkModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/BjzinfxvacpbvoductgkModule/Tests/Info.plist
+    sources: [Modules/BjzinfxvacpbvoductgkModule/Tests]
+  RyxzdpghdkuschihdlmeModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RyxzdpghdkuschihdlmeModule/Sources/Info.plist
+    sources: [Modules/RyxzdpghdkuschihdlmeModule/Sources]
+  RyxzdpghdkuschihdlmeModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RyxzdpghdkuschihdlmeModule/Tests/Info.plist
+    sources: [Modules/RyxzdpghdkuschihdlmeModule/Tests]
+  UjnuvjekauslkuauconjModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UjnuvjekauslkuauconjModule/Sources/Info.plist
+    sources: [Modules/UjnuvjekauslkuauconjModule/Sources]
+  UjnuvjekauslkuauconjModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UjnuvjekauslkuauconjModule/Tests/Info.plist
+    sources: [Modules/UjnuvjekauslkuauconjModule/Tests]
+  JmjhmkouuxubrnyphwhlModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/JmjhmkouuxubrnyphwhlModule/Sources/Info.plist
+    sources: [Modules/JmjhmkouuxubrnyphwhlModule/Sources]
+  JmjhmkouuxubrnyphwhlModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/JmjhmkouuxubrnyphwhlModule/Tests/Info.plist
+    sources: [Modules/JmjhmkouuxubrnyphwhlModule/Tests]
+  HotxnhpmnnllbojmebvxModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/HotxnhpmnnllbojmebvxModule/Sources/Info.plist
+    sources: [Modules/HotxnhpmnnllbojmebvxModule/Sources]
+  HotxnhpmnnllbojmebvxModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/HotxnhpmnnllbojmebvxModule/Tests/Info.plist
+    sources: [Modules/HotxnhpmnnllbojmebvxModule/Tests]
+  KoraydupicprbcjimxeyModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/KoraydupicprbcjimxeyModule/Sources/Info.plist
+    sources: [Modules/KoraydupicprbcjimxeyModule/Sources]
+  KoraydupicprbcjimxeyModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/KoraydupicprbcjimxeyModule/Tests/Info.plist
+    sources: [Modules/KoraydupicprbcjimxeyModule/Tests]
+  GkosewuranoejuvsevjvModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GkosewuranoejuvsevjvModule/Sources/Info.plist
+    sources: [Modules/GkosewuranoejuvsevjvModule/Sources]
+  GkosewuranoejuvsevjvModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GkosewuranoejuvsevjvModule/Tests/Info.plist
+    sources: [Modules/GkosewuranoejuvsevjvModule/Tests]
+  RsledpvpftjthywyblpgModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RsledpvpftjthywyblpgModule/Sources/Info.plist
+    sources: [Modules/RsledpvpftjthywyblpgModule/Sources]
+  RsledpvpftjthywyblpgModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RsledpvpftjthywyblpgModule/Tests/Info.plist
+    sources: [Modules/RsledpvpftjthywyblpgModule/Tests]
+  VgfebpsplcgugagiwgjwModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VgfebpsplcgugagiwgjwModule/Sources/Info.plist
+    sources: [Modules/VgfebpsplcgugagiwgjwModule/Sources]
+  VgfebpsplcgugagiwgjwModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VgfebpsplcgugagiwgjwModule/Tests/Info.plist
+    sources: [Modules/VgfebpsplcgugagiwgjwModule/Tests]
+  XmjjrxosrcgyvfyirqvgModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/XmjjrxosrcgyvfyirqvgModule/Sources/Info.plist
+    sources: [Modules/XmjjrxosrcgyvfyirqvgModule/Sources]
+  XmjjrxosrcgyvfyirqvgModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/XmjjrxosrcgyvfyirqvgModule/Tests/Info.plist
+    sources: [Modules/XmjjrxosrcgyvfyirqvgModule/Tests]
+  CnymacwsxrvomulnpgrtModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/CnymacwsxrvomulnpgrtModule/Sources/Info.plist
+    sources: [Modules/CnymacwsxrvomulnpgrtModule/Sources]
+  CnymacwsxrvomulnpgrtModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/CnymacwsxrvomulnpgrtModule/Tests/Info.plist
+    sources: [Modules/CnymacwsxrvomulnpgrtModule/Tests]
+  TcnnavitisnbycmgdsczModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TcnnavitisnbycmgdsczModule/Sources/Info.plist
+    sources: [Modules/TcnnavitisnbycmgdsczModule/Sources]
+  TcnnavitisnbycmgdsczModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TcnnavitisnbycmgdsczModule/Tests/Info.plist
+    sources: [Modules/TcnnavitisnbycmgdsczModule/Tests]
+  EltotqxsdjpzhsldtjheModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/EltotqxsdjpzhsldtjheModule/Sources/Info.plist
+    sources: [Modules/EltotqxsdjpzhsldtjheModule/Sources]
+  EltotqxsdjpzhsldtjheModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/EltotqxsdjpzhsldtjheModule/Tests/Info.plist
+    sources: [Modules/EltotqxsdjpzhsldtjheModule/Tests]
+  ZjbouooexurcbycogzrcModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZjbouooexurcbycogzrcModule/Sources/Info.plist
+    sources: [Modules/ZjbouooexurcbycogzrcModule/Sources]
+  ZjbouooexurcbycogzrcModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZjbouooexurcbycogzrcModule/Tests/Info.plist
+    sources: [Modules/ZjbouooexurcbycogzrcModule/Tests]
+  EvsgryycozqjogucdcepModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/EvsgryycozqjogucdcepModule/Sources/Info.plist
+    sources: [Modules/EvsgryycozqjogucdcepModule/Sources]
+  EvsgryycozqjogucdcepModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/EvsgryycozqjogucdcepModule/Tests/Info.plist
+    sources: [Modules/EvsgryycozqjogucdcepModule/Tests]
+  GylwmjfckrudneheiaveModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GylwmjfckrudneheiaveModule/Sources/Info.plist
+    sources: [Modules/GylwmjfckrudneheiaveModule/Sources]
+  GylwmjfckrudneheiaveModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GylwmjfckrudneheiaveModule/Tests/Info.plist
+    sources: [Modules/GylwmjfckrudneheiaveModule/Tests]
+  DxqtrvqemcjpvmeibaizModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/DxqtrvqemcjpvmeibaizModule/Sources/Info.plist
+    sources: [Modules/DxqtrvqemcjpvmeibaizModule/Sources]
+  DxqtrvqemcjpvmeibaizModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/DxqtrvqemcjpvmeibaizModule/Tests/Info.plist
+    sources: [Modules/DxqtrvqemcjpvmeibaizModule/Tests]
+  VzkzjqfsnowifbgqdstdModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VzkzjqfsnowifbgqdstdModule/Sources/Info.plist
+    sources: [Modules/VzkzjqfsnowifbgqdstdModule/Sources]
+  VzkzjqfsnowifbgqdstdModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VzkzjqfsnowifbgqdstdModule/Tests/Info.plist
+    sources: [Modules/VzkzjqfsnowifbgqdstdModule/Tests]
+  BrxiffkgerhksesavaifModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/BrxiffkgerhksesavaifModule/Sources/Info.plist
+    sources: [Modules/BrxiffkgerhksesavaifModule/Sources]
+  BrxiffkgerhksesavaifModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/BrxiffkgerhksesavaifModule/Tests/Info.plist
+    sources: [Modules/BrxiffkgerhksesavaifModule/Tests]
+  CgwlgdhlryblmqsoipmbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/CgwlgdhlryblmqsoipmbModule/Sources/Info.plist
+    sources: [Modules/CgwlgdhlryblmqsoipmbModule/Sources]
+  CgwlgdhlryblmqsoipmbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/CgwlgdhlryblmqsoipmbModule/Tests/Info.plist
+    sources: [Modules/CgwlgdhlryblmqsoipmbModule/Tests]
+  VdszgknmkwodljyzqmzaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VdszgknmkwodljyzqmzaModule/Sources/Info.plist
+    sources: [Modules/VdszgknmkwodljyzqmzaModule/Sources]
+  VdszgknmkwodljyzqmzaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VdszgknmkwodljyzqmzaModule/Tests/Info.plist
+    sources: [Modules/VdszgknmkwodljyzqmzaModule/Tests]
+  GdkcbyedqmwwpnrbelveModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GdkcbyedqmwwpnrbelveModule/Sources/Info.plist
+    sources: [Modules/GdkcbyedqmwwpnrbelveModule/Sources]
+  GdkcbyedqmwwpnrbelveModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GdkcbyedqmwwpnrbelveModule/Tests/Info.plist
+    sources: [Modules/GdkcbyedqmwwpnrbelveModule/Tests]
+  TtlypbclpgeqzbdfzfklModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TtlypbclpgeqzbdfzfklModule/Sources/Info.plist
+    sources: [Modules/TtlypbclpgeqzbdfzfklModule/Sources]
+  TtlypbclpgeqzbdfzfklModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TtlypbclpgeqzbdfzfklModule/Tests/Info.plist
+    sources: [Modules/TtlypbclpgeqzbdfzfklModule/Tests]
+  TvldngvysfafrfruvfnbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TvldngvysfafrfruvfnbModule/Sources/Info.plist
+    sources: [Modules/TvldngvysfafrfruvfnbModule/Sources]
+  TvldngvysfafrfruvfnbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TvldngvysfafrfruvfnbModule/Tests/Info.plist
+    sources: [Modules/TvldngvysfafrfruvfnbModule/Tests]
+  TqhjxyjaqpqdvfjccypqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TqhjxyjaqpqdvfjccypqModule/Sources/Info.plist
+    sources: [Modules/TqhjxyjaqpqdvfjccypqModule/Sources]
+  TqhjxyjaqpqdvfjccypqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TqhjxyjaqpqdvfjccypqModule/Tests/Info.plist
+    sources: [Modules/TqhjxyjaqpqdvfjccypqModule/Tests]
+  FqwjjyldlwjghjsqqzwgModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FqwjjyldlwjghjsqqzwgModule/Sources/Info.plist
+    sources: [Modules/FqwjjyldlwjghjsqqzwgModule/Sources]
+  FqwjjyldlwjghjsqqzwgModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FqwjjyldlwjghjsqqzwgModule/Tests/Info.plist
+    sources: [Modules/FqwjjyldlwjghjsqqzwgModule/Tests]
+  FijvvqljeqpxmlvjhoybModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FijvvqljeqpxmlvjhoybModule/Sources/Info.plist
+    sources: [Modules/FijvvqljeqpxmlvjhoybModule/Sources]
+  FijvvqljeqpxmlvjhoybModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FijvvqljeqpxmlvjhoybModule/Tests/Info.plist
+    sources: [Modules/FijvvqljeqpxmlvjhoybModule/Tests]
+  VojtbyahunoduuyixprqModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VojtbyahunoduuyixprqModule/Sources/Info.plist
+    sources: [Modules/VojtbyahunoduuyixprqModule/Sources]
+  VojtbyahunoduuyixprqModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VojtbyahunoduuyixprqModule/Tests/Info.plist
+    sources: [Modules/VojtbyahunoduuyixprqModule/Tests]
+  LjrprnmxyphzszcgvzwwModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LjrprnmxyphzszcgvzwwModule/Sources/Info.plist
+    sources: [Modules/LjrprnmxyphzszcgvzwwModule/Sources]
+  LjrprnmxyphzszcgvzwwModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LjrprnmxyphzszcgvzwwModule/Tests/Info.plist
+    sources: [Modules/LjrprnmxyphzszcgvzwwModule/Tests]
+  VjqehviyaqegmkybetdlModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VjqehviyaqegmkybetdlModule/Sources/Info.plist
+    sources: [Modules/VjqehviyaqegmkybetdlModule/Sources]
+  VjqehviyaqegmkybetdlModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VjqehviyaqegmkybetdlModule/Tests/Info.plist
+    sources: [Modules/VjqehviyaqegmkybetdlModule/Tests]
+  GbshmkhbtmfmblgwiuqeModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GbshmkhbtmfmblgwiuqeModule/Sources/Info.plist
+    sources: [Modules/GbshmkhbtmfmblgwiuqeModule/Sources]
+  GbshmkhbtmfmblgwiuqeModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GbshmkhbtmfmblgwiuqeModule/Tests/Info.plist
+    sources: [Modules/GbshmkhbtmfmblgwiuqeModule/Tests]
+  FqfzjextppmjecqogjgiModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FqfzjextppmjecqogjgiModule/Sources/Info.plist
+    sources: [Modules/FqfzjextppmjecqogjgiModule/Sources]
+  FqfzjextppmjecqogjgiModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FqfzjextppmjecqogjgiModule/Tests/Info.plist
+    sources: [Modules/FqfzjextppmjecqogjgiModule/Tests]
+  YldwjwlllewkrikgbzalModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YldwjwlllewkrikgbzalModule/Sources/Info.plist
+    sources: [Modules/YldwjwlllewkrikgbzalModule/Sources]
+  YldwjwlllewkrikgbzalModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YldwjwlllewkrikgbzalModule/Tests/Info.plist
+    sources: [Modules/YldwjwlllewkrikgbzalModule/Tests]
+  DgwcgpopwxbyermawarsModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/DgwcgpopwxbyermawarsModule/Sources/Info.plist
+    sources: [Modules/DgwcgpopwxbyermawarsModule/Sources]
+  DgwcgpopwxbyermawarsModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/DgwcgpopwxbyermawarsModule/Tests/Info.plist
+    sources: [Modules/DgwcgpopwxbyermawarsModule/Tests]
+  FmwcxzenucnysdlrqgheModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FmwcxzenucnysdlrqgheModule/Sources/Info.plist
+    sources: [Modules/FmwcxzenucnysdlrqgheModule/Sources]
+  FmwcxzenucnysdlrqgheModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FmwcxzenucnysdlrqgheModule/Tests/Info.plist
+    sources: [Modules/FmwcxzenucnysdlrqgheModule/Tests]
+  GyhhjwqskuitddsbelloModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/GyhhjwqskuitddsbelloModule/Sources/Info.plist
+    sources: [Modules/GyhhjwqskuitddsbelloModule/Sources]
+  GyhhjwqskuitddsbelloModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/GyhhjwqskuitddsbelloModule/Tests/Info.plist
+    sources: [Modules/GyhhjwqskuitddsbelloModule/Tests]
+  WebkzingpsjpdznpwuymModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/WebkzingpsjpdznpwuymModule/Sources/Info.plist
+    sources: [Modules/WebkzingpsjpdznpwuymModule/Sources]
+  WebkzingpsjpdznpwuymModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/WebkzingpsjpdznpwuymModule/Tests/Info.plist
+    sources: [Modules/WebkzingpsjpdznpwuymModule/Tests]
+  OlmieravqymizmebsceuModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OlmieravqymizmebsceuModule/Sources/Info.plist
+    sources: [Modules/OlmieravqymizmebsceuModule/Sources]
+  OlmieravqymizmebsceuModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OlmieravqymizmebsceuModule/Tests/Info.plist
+    sources: [Modules/OlmieravqymizmebsceuModule/Tests]
+  KcegmwgisdbirffogmysModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/KcegmwgisdbirffogmysModule/Sources/Info.plist
+    sources: [Modules/KcegmwgisdbirffogmysModule/Sources]
+  KcegmwgisdbirffogmysModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/KcegmwgisdbirffogmysModule/Tests/Info.plist
+    sources: [Modules/KcegmwgisdbirffogmysModule/Tests]
+  ZihynprprxvhxrjwiweuModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZihynprprxvhxrjwiweuModule/Sources/Info.plist
+    sources: [Modules/ZihynprprxvhxrjwiweuModule/Sources]
+  ZihynprprxvhxrjwiweuModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZihynprprxvhxrjwiweuModule/Tests/Info.plist
+    sources: [Modules/ZihynprprxvhxrjwiweuModule/Tests]
+  MiphuorpzvtblaepqbctModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/MiphuorpzvtblaepqbctModule/Sources/Info.plist
+    sources: [Modules/MiphuorpzvtblaepqbctModule/Sources]
+  MiphuorpzvtblaepqbctModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/MiphuorpzvtblaepqbctModule/Tests/Info.plist
+    sources: [Modules/MiphuorpzvtblaepqbctModule/Tests]
+  LbxnqoymsiqjrcehxtxhModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LbxnqoymsiqjrcehxtxhModule/Sources/Info.plist
+    sources: [Modules/LbxnqoymsiqjrcehxtxhModule/Sources]
+  LbxnqoymsiqjrcehxtxhModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LbxnqoymsiqjrcehxtxhModule/Tests/Info.plist
+    sources: [Modules/LbxnqoymsiqjrcehxtxhModule/Tests]
+  VcbcnbriroyonhnxmzbiModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VcbcnbriroyonhnxmzbiModule/Sources/Info.plist
+    sources: [Modules/VcbcnbriroyonhnxmzbiModule/Sources]
+  VcbcnbriroyonhnxmzbiModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VcbcnbriroyonhnxmzbiModule/Tests/Info.plist
+    sources: [Modules/VcbcnbriroyonhnxmzbiModule/Tests]
+  OggnnkdowaxblrkobccbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OggnnkdowaxblrkobccbModule/Sources/Info.plist
+    sources: [Modules/OggnnkdowaxblrkobccbModule/Sources]
+  OggnnkdowaxblrkobccbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OggnnkdowaxblrkobccbModule/Tests/Info.plist
+    sources: [Modules/OggnnkdowaxblrkobccbModule/Tests]
+  ZinzqsmrjbocpmyouscaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZinzqsmrjbocpmyouscaModule/Sources/Info.plist
+    sources: [Modules/ZinzqsmrjbocpmyouscaModule/Sources]
+  ZinzqsmrjbocpmyouscaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZinzqsmrjbocpmyouscaModule/Tests/Info.plist
+    sources: [Modules/ZinzqsmrjbocpmyouscaModule/Tests]
+  HzgvzrnjxamwwgoddxagModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/HzgvzrnjxamwwgoddxagModule/Sources/Info.plist
+    sources: [Modules/HzgvzrnjxamwwgoddxagModule/Sources]
+  HzgvzrnjxamwwgoddxagModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/HzgvzrnjxamwwgoddxagModule/Tests/Info.plist
+    sources: [Modules/HzgvzrnjxamwwgoddxagModule/Tests]
+  RzktwwcapfkhdeudieqsModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/RzktwwcapfkhdeudieqsModule/Sources/Info.plist
+    sources: [Modules/RzktwwcapfkhdeudieqsModule/Sources]
+  RzktwwcapfkhdeudieqsModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/RzktwwcapfkhdeudieqsModule/Tests/Info.plist
+    sources: [Modules/RzktwwcapfkhdeudieqsModule/Tests]
+  CyynidckmbvxsyuiiybbModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/CyynidckmbvxsyuiiybbModule/Sources/Info.plist
+    sources: [Modules/CyynidckmbvxsyuiiybbModule/Sources]
+  CyynidckmbvxsyuiiybbModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/CyynidckmbvxsyuiiybbModule/Tests/Info.plist
+    sources: [Modules/CyynidckmbvxsyuiiybbModule/Tests]
+  FgywbwecfknsnojvvlsaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/FgywbwecfknsnojvvlsaModule/Sources/Info.plist
+    sources: [Modules/FgywbwecfknsnojvvlsaModule/Sources]
+  FgywbwecfknsnojvvlsaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/FgywbwecfknsnojvvlsaModule/Tests/Info.plist
+    sources: [Modules/FgywbwecfknsnojvvlsaModule/Tests]
+  NnpltubfgycqkgvdiwdnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/NnpltubfgycqkgvdiwdnModule/Sources/Info.plist
+    sources: [Modules/NnpltubfgycqkgvdiwdnModule/Sources]
+  NnpltubfgycqkgvdiwdnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/NnpltubfgycqkgvdiwdnModule/Tests/Info.plist
+    sources: [Modules/NnpltubfgycqkgvdiwdnModule/Tests]
+  SrjltgelwhitiwqindjlModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/SrjltgelwhitiwqindjlModule/Sources/Info.plist
+    sources: [Modules/SrjltgelwhitiwqindjlModule/Sources]
+  SrjltgelwhitiwqindjlModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/SrjltgelwhitiwqindjlModule/Tests/Info.plist
+    sources: [Modules/SrjltgelwhitiwqindjlModule/Tests]
+  KksayalrctjzcoeyketgModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/KksayalrctjzcoeyketgModule/Sources/Info.plist
+    sources: [Modules/KksayalrctjzcoeyketgModule/Sources]
+  KksayalrctjzcoeyketgModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/KksayalrctjzcoeyketgModule/Tests/Info.plist
+    sources: [Modules/KksayalrctjzcoeyketgModule/Tests]
+  KdzqxejfpcvpdlygwodhModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/KdzqxejfpcvpdlygwodhModule/Sources/Info.plist
+    sources: [Modules/KdzqxejfpcvpdlygwodhModule/Sources]
+  KdzqxejfpcvpdlygwodhModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/KdzqxejfpcvpdlygwodhModule/Tests/Info.plist
+    sources: [Modules/KdzqxejfpcvpdlygwodhModule/Tests]
+  EddbfirotbbmjshgkezpModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/EddbfirotbbmjshgkezpModule/Sources/Info.plist
+    sources: [Modules/EddbfirotbbmjshgkezpModule/Sources]
+  EddbfirotbbmjshgkezpModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/EddbfirotbbmjshgkezpModule/Tests/Info.plist
+    sources: [Modules/EddbfirotbbmjshgkezpModule/Tests]
+  WrpwuvgxbmcepfdibkunModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/WrpwuvgxbmcepfdibkunModule/Sources/Info.plist
+    sources: [Modules/WrpwuvgxbmcepfdibkunModule/Sources]
+  WrpwuvgxbmcepfdibkunModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/WrpwuvgxbmcepfdibkunModule/Tests/Info.plist
+    sources: [Modules/WrpwuvgxbmcepfdibkunModule/Tests]
+  QmcuyeepfdgjdwdvmswnModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/QmcuyeepfdgjdwdvmswnModule/Sources/Info.plist
+    sources: [Modules/QmcuyeepfdgjdwdvmswnModule/Sources]
+  QmcuyeepfdgjdwdvmswnModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/QmcuyeepfdgjdwdvmswnModule/Tests/Info.plist
+    sources: [Modules/QmcuyeepfdgjdwdvmswnModule/Tests]
+  YczyufovzaghqadiagnrModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YczyufovzaghqadiagnrModule/Sources/Info.plist
+    sources: [Modules/YczyufovzaghqadiagnrModule/Sources]
+  YczyufovzaghqadiagnrModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YczyufovzaghqadiagnrModule/Tests/Info.plist
+    sources: [Modules/YczyufovzaghqadiagnrModule/Tests]
+  UlutzpcqdzsxoajsxqmuModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/UlutzpcqdzsxoajsxqmuModule/Sources/Info.plist
+    sources: [Modules/UlutzpcqdzsxoajsxqmuModule/Sources]
+  UlutzpcqdzsxoajsxqmuModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/UlutzpcqdzsxoajsxqmuModule/Tests/Info.plist
+    sources: [Modules/UlutzpcqdzsxoajsxqmuModule/Tests]
+  ZfzpwlqmjsatasevtiegModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ZfzpwlqmjsatasevtiegModule/Sources/Info.plist
+    sources: [Modules/ZfzpwlqmjsatasevtiegModule/Sources]
+  ZfzpwlqmjsatasevtiegModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ZfzpwlqmjsatasevtiegModule/Tests/Info.plist
+    sources: [Modules/ZfzpwlqmjsatasevtiegModule/Tests]
+  TuhipjbimzvdnuafourgModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/TuhipjbimzvdnuafourgModule/Sources/Info.plist
+    sources: [Modules/TuhipjbimzvdnuafourgModule/Sources]
+  TuhipjbimzvdnuafourgModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/TuhipjbimzvdnuafourgModule/Tests/Info.plist
+    sources: [Modules/TuhipjbimzvdnuafourgModule/Tests]
+  VltxkbayrffecscjpmiyModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/VltxkbayrffecscjpmiyModule/Sources/Info.plist
+    sources: [Modules/VltxkbayrffecscjpmiyModule/Sources]
+  VltxkbayrffecscjpmiyModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/VltxkbayrffecscjpmiyModule/Tests/Info.plist
+    sources: [Modules/VltxkbayrffecscjpmiyModule/Tests]
+  BszqwxlvzedrruytkixrModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/BszqwxlvzedrruytkixrModule/Sources/Info.plist
+    sources: [Modules/BszqwxlvzedrruytkixrModule/Sources]
+  BszqwxlvzedrruytkixrModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/BszqwxlvzedrruytkixrModule/Tests/Info.plist
+    sources: [Modules/BszqwxlvzedrruytkixrModule/Tests]
+  YpuilcgwxeuuzbyyxameModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/YpuilcgwxeuuzbyyxameModule/Sources/Info.plist
+    sources: [Modules/YpuilcgwxeuuzbyyxameModule/Sources]
+  YpuilcgwxeuuzbyyxameModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/YpuilcgwxeuuzbyyxameModule/Tests/Info.plist
+    sources: [Modules/YpuilcgwxeuuzbyyxameModule/Tests]
+  ItspxilosjzefecznygmModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/ItspxilosjzefecznygmModule/Sources/Info.plist
+    sources: [Modules/ItspxilosjzefecznygmModule/Sources]
+  ItspxilosjzefecznygmModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/ItspxilosjzefecznygmModule/Tests/Info.plist
+    sources: [Modules/ItspxilosjzefecznygmModule/Tests]
+  OcxkabrwiqvvvdtbxiloModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/OcxkabrwiqvvvdtbxiloModule/Sources/Info.plist
+    sources: [Modules/OcxkabrwiqvvvdtbxiloModule/Sources]
+  OcxkabrwiqvvvdtbxiloModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/OcxkabrwiqvvvdtbxiloModule/Tests/Info.plist
+    sources: [Modules/OcxkabrwiqvvvdtbxiloModule/Tests]
+  LfyzsmjdnvaippottcgzModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/LfyzsmjdnvaippottcgzModule/Sources/Info.plist
+    sources: [Modules/LfyzsmjdnvaippottcgzModule/Sources]
+  LfyzsmjdnvaippottcgzModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/LfyzsmjdnvaippottcgzModule/Tests/Info.plist
+    sources: [Modules/LfyzsmjdnvaippottcgzModule/Tests]
+  IiforqnpweollhrdmeeaModule:
+    type: framework
+    platform: iOS
+    info:
+      path: Modules/IiforqnpweollhrdmeeaModule/Sources/Info.plist
+    sources: [Modules/IiforqnpweollhrdmeeaModule/Sources]
+  IiforqnpweollhrdmeeaModuleTests:
+    type: bundle.unit-test
+    platform: iOS
+    info:
+      path: Modules/IiforqnpweollhrdmeeaModule/Tests/Info.plist
+    sources: [Modules/IiforqnpweollhrdmeeaModule/Tests]
