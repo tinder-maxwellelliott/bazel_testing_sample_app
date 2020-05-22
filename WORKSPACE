@@ -33,8 +33,8 @@ git_repository(
 http_file(
     name = "xctestrunner",
     executable = 1,
-    urls = ["https://github.com/google/xctestrunner/releases/download/0.2.11/ios_test_runner.par"],
-    sha256 = "0338c71977106f1304a8056739db6f462a76f386a299052c1ed7f8fd463d01a8"
+    urls = ["https://github.com/google/xctestrunner/releases/download/0.2.12/ios_test_runner.par"],
+    sha256 = "8b7352f7414de4b54478563c90d55509030baa531696dfe9c4e1bf0617ee5eb0"
 )
 
 load(
